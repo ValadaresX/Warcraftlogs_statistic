@@ -19,13 +19,13 @@ navegador.get(site)
 # Para cada item no xpath escrito (.text) transforme em texto
 
 for i in navegador.find_elements_by_xpath('//*[@id="DataTables_Table_0"]/tbody'):
-
+    # Raspa nome do jogador
     for name in i.find_elements_by_xpath('//*/td[2]/div/div[1]/a'):
         name = name.text
-
+    # Raspa o score do jogador
     for score in i.find_elements_by_xpath('//*[@class="main-table-number primary players-table-score"]'):
         score = score.text
-
+    # Raspa o servidor que o personagem joga
     for server in i.find_elements_by_xpath('//*[@class="players-table-realm"]'):
         server = server.text
 
