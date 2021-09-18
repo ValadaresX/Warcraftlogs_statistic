@@ -1,33 +1,40 @@
-
+import time
+import json
+import pandas as pd
 from link import pagina
-from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
-import time
 
 # Modulo do que retorna o link da pagina
 site = pagina()
 
 # Opcoes do navegador
 options = Options()
-options.add_argument('--headless')  # Impede o navegador de ser aberto
-navegador = webdriver.Firefox(options=options)  # Inclui as opçoes no navegador
+options.headless = True  # Impede o navegador de ser aberto
+driver = webdriver.Firefox(options=options)  # Inclui as opçoes no navegador
 
-# Executa o navegador
-navegador.get(site)
+# Executa o navegador com a URL
+driver.get(site)
+# Espera em segundos para que a pagina seja carregada
+time.sleep(5)
 
-# Para cada item no xpath escrito (.text) transforme em texto
-
-for i in navegador.find_elements_by_xpath('//*[@id="DataTables_Table_0"]/tbody'):
-    # Raspa nome do jogador
-    for name in i.find_elements_by_xpath('//*/td[2]/div/div[1]/a'):
-        name = name.text
-    # Raspa o score do jogador
-    for score in i.find_elements_by_xpath('//*[@class="main-table-number primary players-table-score"]'):
-        score = score.text
-    # Raspa o servidor que o personagem joga
-    for server in i.find_elements_by_xpath('//*[@class="players-table-realm"]'):
-        server = server.text
+# Xpath da tabela
+# Nao pode conter '*' pois o 'find_element_by_xpath' n funciona
+tab = driver.find_element_by_xpath('//table[@id="DataTables_Table_0"]')
+html_content = tab.get_attribute('outerHTML')
 
 
-navegador.quit()
+# Pandas
+# Procura uma lista que tenha 'Score' em seu cabeçario
+df = pd.read_html(html_content, match='Score')
+data = pd.concat(df)  # converte list em Data Frame
+dataf = data.to_json(orient='index')  # Gera um Json orientado a index
+#print(dataf)
+driver.quit()
+
+# Converter e salvar em JSON
+js = json.dumps(dataf)
+fp = open('toplayers.js', 'w')
+fp.write(js)
+fp.close()
+print('OK!')
