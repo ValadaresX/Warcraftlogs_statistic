@@ -19,20 +19,22 @@ time.sleep(5)
 
 # XPATH
 tab = driver.find_element_by_xpath('//table[@id="DataTables_Table_0"]')
-html_content = tab.get_attribute('outerHTML')
+playerscore_tanks = tab.get_attribute('outerHTML')
+character_details_links = [href.get_attribute("href") for href in driver.find_elements_by_xpath("//td[2]/div/a[@href]")]
 driver.quit()
 
 # PANDAS
 # Procura uma tabela que tenha 'Score' em seu cabeçario (retona uma lista)
-df = pd.read_html(html_content, match='Score')
-
+df = pd.read_html(playerscore_tanks, match='Score')
 # Concatenando data frame
 data = pd.concat(df)
-
 # Remove conteudo da coluna name e coloca em Server
 data[['Name', 'Server']] = data['Name'].str.split(' \t', expand=True)
+# Cria nova coluna 'Character_link' e adiciona a lista character_details_links
+data['Character_link'] = character_details_links
 
 # Gera um Json orientado a index
 dataf = data.to_json("example.json", indent=1, orient='index', force_ascii=False)
+
 
 print('OK!')
