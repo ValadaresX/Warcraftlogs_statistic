@@ -36,30 +36,35 @@ while True:
         #Url da pagina atual
         driver.get(driver.current_url)
         print(driver.current_url[-6:].upper())
-        
-        for i in character_details_links:
-            driver.get(i + '?mode=detailed&zone=25#metric=playerscore')
+        if len(character_details_links) == 99:
+            print('Lista de ids de personagem igual a 100.')
 
-            sleep(5)
-            try:
-                df2 = pd.DataFrame({
-                "nome": driver.find_element_by_xpath('//*[@id="character-name"]/a').text,
-                "classe": driver.find_element_by_id('character-class').text,
-                "item_lvl" : driver.find_element_by_id('gear-box-ilvl-text').text,
-                "mortes_temporada" : driver.find_element_by_xpath('//div[2]/table/tbody/tr[2]/td[2]').text,
-                "servidor" : driver.find_element_by_xpath('//*[@id="server-link"]').text
-                },index=[0])
-            except:
-                driver.find_element_by_xpath('//*[@id="update-text"]/a').click()
-                sleep(randint(5,7))
-                continue
-            else:
-                df = df.append(df2)
+            for i in character_details_links:
+                driver.get(i)
+
+                sleep(randint(5,6))
+                try:
+                    df2 = pd.DataFrame({
+                    "nome": driver.find_element_by_xpath('//*[@id="character-name"]/a').text,
+                    "classe": driver.find_element_by_id('character-class').text,
+                    "item_lvl" : driver.find_element_by_id('gear-box-ilvl-text').text,
+                    "mortes_temporada" : driver.find_element_by_xpath('//div[2]/table/tbody/tr[2]/td[2]').text,
+                    "servidor" : driver.find_element_by_xpath('//*[@id="server-link"]').text
+                    },index=[0])
+                except:
+                    driver.find_element_by_xpath('//*[@id="update-text"]/a').click()
+                    sleep(randint(5,7))
+                    continue
+                else:
+                    df = df.append(df2)
 
 
-            print('*' * 120)
-            print(df)
-            print('*' * 120)
+                print('*' * 120)
+                print(df)
+                print('*' * 120)
+        else:
+            print(f'Lista de personagem é: {len(character_details_links)} ')
+            
         contador += 1
         driver.get(f"https://www.warcraftlogs.com/zone/rankings/25#metric=playerscore&region=1&subregion=1&boss=-1&page={contador}")
         #Click no Next
