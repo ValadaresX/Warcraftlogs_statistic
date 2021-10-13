@@ -25,12 +25,12 @@ contador = 0
 
 while (contador <= 150):
     contador = 1
-    #Pega todos os links dos players da pagina
-    character_details_links = [href.get_attribute("href") for href in driver.find_elements_by_xpath("//td[2]/div/a[@href]")]
-
     #Pega a variavel do 'proxima pagina'
     next_page = driver.find_element_by_css_selector('#pagination-hook > nav > ul > li:nth-child(2) > a')
     
+    #Pega todos os links dos players da pagina
+    character_details_links = [href.get_attribute("href") for href in driver.find_elements_by_xpath("//td[2]/div/a[@href]")]
+
     #Enquanto a variavel Next n for vazia
     if next_page is not None:
         #Url da pagina atual
@@ -68,8 +68,8 @@ while (contador <= 150):
         driver.get(f"https://www.warcraftlogs.com/zone/rankings/25#metric=playerscore&region=1&subregion=1&boss=-1&page={contador}")
         sleep(4)
         #Pega a variavel do 'proxima pagina'
-        next_page = driver.find_element_by_css_selector('#pagination-hook > nav > ul > li:nth-child(2) > a')
+        #next_page = driver.find_element_by_css_selector('#pagination-hook > nav > ul > li:nth-child(2) > a')
         #Click no Next
-        driver.execute_script("arguments[0].click();", next_page)
+        #driver.execute_script("arguments[0].click();", next_page)
 driver.quit()
         
