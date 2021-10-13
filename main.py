@@ -21,9 +21,9 @@ sleep(3)
 print('Pegando o item level...')
 
 df = pd.DataFrame(columns = ['nome','classe','item_lvl','servidor','mortes_temporada'])
+contador = 0
 
-
-while True:
+while (contador <= 150):
     contador = 1
     #Pega todos os links dos players da pagina
     character_details_links = [href.get_attribute("href") for href in driver.find_elements_by_xpath("//td[2]/div/a[@href]")]
@@ -41,8 +41,8 @@ while True:
 
             for i in character_details_links:
                 driver.get(i)
-
                 sleep(randint(5,6))
+
                 try:
                     df2 = pd.DataFrame({
                     "nome": driver.find_element_by_xpath('//*[@id="character-name"]/a').text,
@@ -58,7 +58,6 @@ while True:
                 else:
                     df = df.append(df2)
 
-
                 print('*' * 120)
                 print(df)
                 print('*' * 120)
@@ -67,9 +66,10 @@ while True:
             
         contador += 1
         driver.get(f"https://www.warcraftlogs.com/zone/rankings/25#metric=playerscore&region=1&subregion=1&boss=-1&page={contador}")
-        #Click no Next
         sleep(4)
         #Pega a variavel do 'proxima pagina'
         next_page = driver.find_element_by_css_selector('#pagination-hook > nav > ul > li:nth-child(2) > a')
+        #Click no Next
         driver.execute_script("arguments[0].click();", next_page)
+driver.quit()
         
