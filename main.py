@@ -23,6 +23,7 @@ print('Pegando o item level...')
 df = pd.DataFrame(columns = ['nome','classe','item_lvl','servidor','mortes_temporada'])
 contador = 0
 
+#Enquanto contador menor iqual a 150 (que nesse caso seria 15000 itens)
 while (contador <= 150):
     contador = 1
     #Pega a variavel do 'proxima pagina'
@@ -36,6 +37,8 @@ while (contador <= 150):
         #Url da pagina atual
         driver.get(driver.current_url)
         print(driver.current_url[-6:].upper())
+
+        #Uma checagem de lista de links dos players 
         if len(character_details_links) == 99:
             print('Lista de ids de personagem igual a 100.')
 
@@ -44,6 +47,7 @@ while (contador <= 150):
                 sleep(randint(5,6))
 
                 try:
+                    #Adiciona todos os itens da pagina de detalhes do player
                     df2 = pd.DataFrame({
                     "nome": driver.find_element_by_xpath('//*[@id="character-name"]/a').text,
                     "classe": driver.find_element_by_id('character-class').text,
@@ -56,6 +60,7 @@ while (contador <= 150):
                     sleep(randint(5,7))
                     continue
                 else:
+                    #Adiciona ao DataFrame os itens buscados
                     df = df.append(df2)
 
                 print('*' * 120)
