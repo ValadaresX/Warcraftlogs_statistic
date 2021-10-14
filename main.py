@@ -4,6 +4,11 @@ from random import randint
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.support.ui import WebDriverWait
+
+import pandas as pd
+print('Pandas',pd.__version__)
+print('selenium',webdriver.__version__)
+
 #from selenium.webdriver.support.expected_conditions import (visibility_of,invisibility_of_element)
 
 # Opcoes do navegador
@@ -77,4 +82,3 @@ while (contador <= 150):
         #Click no Next
         #driver.execute_script("arguments[0].click();", next_page)
 driver.quit()
-        
