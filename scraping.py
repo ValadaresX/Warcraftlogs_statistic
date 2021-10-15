@@ -22,10 +22,11 @@ driver = webdriver.Firefox(options=options)  # Inclui as opções no navegador
 driver.get("https://www.warcraftlogs.com/zone/rankings/25#metric=playerscore&region=1&subregion=1&boss=-1&page=1")
 # Espera em segundos para que a pagina seja carregada
 sleep(3)
-
 print('Pegando o item level...')
 
+#Criando DataFrame
 df = pd.DataFrame(columns = ['nome','classe','item_lvl','servidor','mortes_temporada'])
+
 contador = 0
 
 #Enquanto contador menor iqual a 150 (que nesse caso seria 15000 itens)
@@ -45,7 +46,7 @@ while (contador <= 150):
 
         #Uma checagem de lista de links dos players 
         if len(character_details_links) == 99:
-            print('Lista de ids de personagem igual a 100.')
+            print('Lista de ids de personagem igual a 100...')
 
             for i in character_details_links:
                 driver.get(i)
@@ -60,14 +61,17 @@ while (contador <= 150):
                     "mortes_temporada" : driver.find_element_by_xpath('//div[2]/table/tbody/tr[2]/td[2]').text,
                     "servidor" : driver.find_element_by_xpath('//*[@id="server-link"]').text
                     },index=[0])
+
                 except:
                     driver.find_element_by_xpath('//*[@id="update-text"]/a').click()
                     sleep(randint(5,7))
                     continue
+
                 else:
                     #Adiciona ao DataFrame os itens buscados
                     df = df.append(df2)
 
+                    
                 print('*' * 120)
                 print(df)
                 print('*' * 120)
