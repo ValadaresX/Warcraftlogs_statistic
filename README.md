@@ -10,8 +10,8 @@ Esse projeto tem como finalidade principal, aprofundar meus conhecimentos em log
 
 ## Bibliotecas usadas
 
-Pandas 1.3.3
-Selenium 3.14.1
+* Pandas 1.3.3
+* Selenium 3.14.1
 ```bash
 pip install -r requirements.txt
 ```
