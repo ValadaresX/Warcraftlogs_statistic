@@ -70,6 +70,7 @@ while (contador <= 150):
                 else:
                     #Adiciona ao DataFrame os itens buscados
                     df = df.append(df2)
+                    
 
                     
                 print('*' * 120)
@@ -81,6 +82,10 @@ while (contador <= 150):
         contador += 1
         driver.get(f"https://www.warcraftlogs.com/zone/rankings/25#metric=playerscore&region=1&subregion=1&boss=-1&page={contador}")
         sleep(4)
+        # Gera um Json orientado a index
+        df.to_json(f"page_{contador}.json", indent=1, orient='index', force_ascii=False)
+
+
         #Pega a variavel da 'proxima pagina'
         #next_page = driver.find_element_by_css_selector('#pagination-hook > nav > ul > li:nth-child(2) > a')
         #Click no Next
