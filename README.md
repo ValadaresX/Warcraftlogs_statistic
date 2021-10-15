@@ -1,10 +1,10 @@
 # Projeto de analise de dados 
 
 Esse projeto tem como finalidade principal, aprofundar meus conhecimentos em logica e na vertente da programação de analise de dados e tem como etapas os seguintes tópicos:
-*Análise de requisitos
-*Web scraping
-*Limpeza de dados
-*Criação de dashboard
+* Análise de requisitos
+* Web scraping
+* Limpeza de dados
+* Criação de dashboard
 
 
 
