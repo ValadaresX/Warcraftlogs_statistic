@@ -57,7 +57,7 @@ while (contador <= 150):
                 "item_lvl" : driver.find_element_by_id('gear-box-ilvl-text').text,
                 "mortes_temporada" : driver.find_element_by_xpath('//div[2]/table/tbody/tr[2]/td[2]').text,
                 "servidor" : driver.find_element_by_xpath('//*[@id="server-link"]').text
-                },index=[0])
+                },index=[])
 
             except:
                 driver.find_element_by_xpath('//*[@id="update-text"]/a').click()
@@ -76,10 +76,12 @@ while (contador <= 150):
     
             
         contador += 1
-        driver.get(f"https://www.warcraftlogs.com/zone/rankings/25#metric=playerscore&region=1&subregion=1&boss=-1&page={contador}")
-        sleep(4)
         # Gera um Json orientado a index
         df.to_json(f"page_{contador}.json", indent=1, orient='index', force_ascii=False)
+
+        #Passando para possa pagina
+        driver.get(f"https://www.warcraftlogs.com/zone/rankings/25#metric=playerscore&region=1&subregion=1&boss=-1&page={contador}")
+        sleep(4)
 
 
         #Pega a variavel da 'proxima pagina'
