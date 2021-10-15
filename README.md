@@ -22,7 +22,7 @@ pip install selenium
 
 ## Como utilizar
 
-Execute o arquivo main.py no shell, o programa executara uma loop de 150 paginas visitadas (pode ser alterado na linha 32), cada pagina contem 100 players, o intervalo de coleta esta de 5s por motivos de block do site, (pode ser alterado na linha 52).
+Execute o arquivo scraping.py no shell, o programa executara uma loop de 150 paginas visitadas (pode ser alterado na linha 32), cada pagina contem 100 players, o intervalo de coleta esta de 5s por motivos de block do site, (pode ser alterado na linha 52).
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
