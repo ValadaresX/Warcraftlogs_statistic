@@ -11,14 +11,11 @@ Esse projeto tem como finalidade principal, aprofundar meus conhecimentos em log
 ## Bibliotecas usadas
 
 Pandas 1.3.3
-```bash
-pip install pandas
-```
-
 Selenium 3.14.1
 ```bash
-pip install selenium
+pip install -r requirements.txt
 ```
+
 
 ## Como utilizar
 
