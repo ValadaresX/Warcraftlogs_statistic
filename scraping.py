@@ -3,7 +3,7 @@ from time import sleep
 from random import randint
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
-from selenium.webdriver.support.ui import WebDriverWait
+
 
 import pandas as pd
 print('Pandas',pd.__version__)
@@ -57,7 +57,7 @@ while (contador <= 150):
                 "item_lvl" : driver.find_element_by_id('gear-box-ilvl-text').text,
                 "mortes_temporada" : driver.find_element_by_xpath('//div[2]/table/tbody/tr[2]/td[2]').text,
                 "servidor" : driver.find_element_by_xpath('//*[@id="server-link"]').text
-                },index=[])
+                },index=[0])
 
             except:
                 driver.find_element_by_xpath('//*[@id="update-text"]/a').click()
@@ -79,7 +79,7 @@ while (contador <= 150):
         # Gera um Json orientado a index
         df.to_json(f"page_{contador}.json", indent=1, orient='index', force_ascii=False)
 
-        #Passando para possa pagina
+        #Passando para proxima pagina
         driver.get(f"https://www.warcraftlogs.com/zone/rankings/25#metric=playerscore&region=1&subregion=1&boss=-1&page={contador}")
         sleep(4)
 
