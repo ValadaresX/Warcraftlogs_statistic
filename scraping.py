@@ -76,10 +76,11 @@ while (contador <= 150):
             print('*' * 120)
             print(df)
             print('*' * 120)   
-            
-            # Gera um Json orientado a index
-            #df.to_json("C:\Users\Breno\Documents\GitHub\Warcraftlogs_statistic\Data_players.json", indent=1, orient='records', force_ascii=False)
-            
+
+            #Gerando json player a player
+            df.to_json("Data_players.json", indent=1, orient='records', force_ascii=False)
+
+
 
         #Passando para proxima pagina
         driver.get(f"https://www.warcraftlogs.com/zone/rankings/25#metric=playerscore&region=1&subregion=1&boss=-1&page={contador}")
