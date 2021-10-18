@@ -2,6 +2,7 @@ import pandas as pd
 from time import sleep
 from random import randint
 from selenium import webdriver
+
 from selenium.webdriver.firefox.options import Options
 
 
@@ -25,10 +26,11 @@ sleep(3)
 print('Pegando o item level...')
 
 #Criando DataFrame
-df = pd.DataFrame(columns = ['nome','classe','item_lvl','servidor','mortes_temporada'])
-df.reset_index()
+df = pd.DataFrame(columns = ['Nome','Classe','Item_lvl','Servidor','Mortes_temporada'])
+
 
 contador = 0
+
 
 #Enquanto contador menor iqual a 150 (que nesse caso seria 15000 itens)
 while (contador <= 150):
@@ -48,20 +50,21 @@ while (contador <= 150):
         for i in character_details_links:
             driver.get(i)
             sleep(5)
-
+            
             try:
                 #Adiciona todos os itens da pagina de detalhes do player
                 df2 = pd.DataFrame({
-                "nome": driver.find_element_by_xpath('//*[@id="character-name"]/a').text,
-                "classe": driver.find_element_by_id('character-class').text,
-                "item_lvl" : driver.find_element_by_id('gear-box-ilvl-text').text,
-                "mortes_temporada" : driver.find_element_by_xpath('//div[2]/table/tbody/tr[2]/td[2]').text,
-                "servidor" : driver.find_element_by_xpath('//*[@id="server-link"]').text
+                "Nome": driver.find_element_by_xpath('//*[@id="character-name"]/a').text,
+                "Classe": driver.find_element_by_id('character-class').text,
+                "Item_lvl" : driver.find_element_by_id('gear-box-ilvl-text').text,
+                "Servidor" : driver.find_element_by_xpath('//*[@id="server-link"]').text,
+                "Mortes_temporada" : driver.find_element_by_xpath('//div[2]/table/tbody/tr[2]/td[2]').text
                 },index=[0])
-
+                
             except:
-                driver.find_element_by_xpath('//*[@id="update-text"]/a').click()
+                print('*' * 60,'Deu erro','*' * 60)
                 sleep(randint(5,7))
+                driver.find_element_by_xpath('//*[@id="update-text"]/a').click()
                 continue
 
             else:
@@ -77,7 +80,7 @@ while (contador <= 150):
             
         contador += 1
         # Gera um Json orientado a index
-        df.to_json(f"page_{contador}.json", indent=1, orient='index', force_ascii=False)
+        df.to_json(f"page_{contador}.json", indent=1, force_ascii=False)
 
         #Passando para proxima pagina
         driver.get(f"https://www.warcraftlogs.com/zone/rankings/25#metric=playerscore&region=1&subregion=1&boss=-1&page={contador}")
