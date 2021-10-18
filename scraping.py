@@ -84,10 +84,5 @@ while (contador <= 150):
         #Passando para proxima pagina
         driver.get(f"https://www.warcraftlogs.com/zone/rankings/25#metric=playerscore&region=1&subregion=1&boss=-1&page={contador}")
         sleep(4)
-
-
-        #Pega a variavel da 'proxima pagina'
-        #next_page = driver.find_element_by_css_selector('#pagination-hook > nav > ul > li:nth-child(2) > a')
-        #Click no Next
-        #driver.execute_script("arguments[0].click();", next_page)
+        
 driver.quit()
