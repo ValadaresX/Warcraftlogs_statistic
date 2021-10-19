@@ -1,12 +1,11 @@
+import json
 import pandas as pd
-from glom import glom
 from time import sleep
 from random import randint
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 
 
-import pandas as pd
 print('Pandas',pd.__version__)
 print('selenium',webdriver.__version__)
 
@@ -75,12 +74,17 @@ while (contador <= 150):
                 
             print('*' * 120)
             print(df)
-            print('*' * 120)   
+            print('*' * 120) 
 
-            df3 = pd.read_json('Data/Data_players.json')
-            if df3['Nome'] not in df:
-                #Gerando json player a player
+            nome_check = driver.find_element_by_xpath('//*[@id="character-name"]/a').text
+            file_json = json.loads('Data/Data_players.json')
+
+            if df2['Nome':nome_check ] not in file_json:
+                print("Não existe")
                 df.to_json("Data/Data_players.json", indent=1, orient='records', force_ascii=False)
+
+            #Gerando json player a player
+            #df.to_json("Data/Data_players.json", indent=1, orient='records', force_ascii=False)
 
 
 
