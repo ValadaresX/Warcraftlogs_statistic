@@ -1,8 +1,8 @@
 import pandas as pd
+from glom import glom
 from time import sleep
 from random import randint
 from selenium import webdriver
-
 from selenium.webdriver.firefox.options import Options
 
 
@@ -77,8 +77,10 @@ while (contador <= 150):
             print(df)
             print('*' * 120)   
 
-            #Gerando json player a player
-            df.to_json("Data_players.json", indent=1, orient='records', force_ascii=False)
+            df3 = pd.read_json('Data/Data_players.json')
+            if df3['Nome'] not in df:
+                #Gerando json player a player
+                df.to_json("Data/Data_players.json", indent=1, orient='records', force_ascii=False)
 
 
 
