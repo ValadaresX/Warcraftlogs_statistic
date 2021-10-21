@@ -30,11 +30,9 @@ df = pd.DataFrame(columns = ['Nome','Classe','Item_lvl','Servidor','Mortes_tempo
 contador = 0
 #Enquanto contador menor igual a 150 (que nesse caso seria 15000 itens)
 while (contador <= 150):
-    
-    
+        
     #Pega todos os links dos players da pagina
     character_details_links = [href.get_attribute("href") for href in driver.find_elements_by_xpath("//td[2]/div/a[@href]")]
-
     
     #Url da pagina atual
     driver.get(driver.current_url)
@@ -64,10 +62,6 @@ while (contador <= 150):
             continue
 
         else:
-            #Adiciona ao DataFrame os itens buscados
-            #print(data_file.Series(["Nome"]))
-            #if df2 not in data_file:
-            #df.append(df2, ignore_index=True)
             #df = df.append(df2)
 
             #Abre aquivo Json que ja contem alguns itens pre-coletados       
@@ -78,16 +72,9 @@ while (contador <= 150):
                 if df.loc[i,'Nome'] not in data_file['Nome'].unique():
                     data_file.append(df.loc[i,::])
             
-            
-            
-            
-            
-            
         print('*' * 120)
         print(df)
         print('*' * 120) 
-
-        #df.to_json("Data/Data_players.json", indent=1, orient='records', force_ascii=False)
 
         #Gerando json player a player
         #df.to_json("Data/Data_players.json", indent=1, orient='records', force_ascii=False)
