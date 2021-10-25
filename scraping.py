@@ -25,10 +25,11 @@ sleep(3)
 print('Pegando o item level...')
 
 #Criando DataFrame
-df = pd.DataFrame(columns = ['Nome','Classe','Item_lvl','Servidor','Mortes_temporada'])
+#df = pd.DataFrame(columns = ['Nome','Classe','Item_lvl','Servidor','Mortes_temporada'])
+df3 = pd.read_json('Data/Data_players.json')
 
 contador = 0
-#Enquanto contador menor igual a 150 (que nesse caso seria 15000 itens)
+#Enquanto contador menor igual a 150 (que nesse caso coleta 15000 itens)
 while (contador <= 150):
         
     #Pega todos os links dos players da pagina
@@ -37,43 +38,42 @@ while (contador <= 150):
     #Url da pagina atual
     driver.get(driver.current_url)
     print(driver.current_url[-6:].upper())        
-    contador += 1
+
     #Para cada item de player
     for i in character_details_links:
         driver.get(i)
-        sleep(5)
-                    
+        sleep(5)                    
+        
         try:
             #Adiciona todos os itens da pagina de detalhes do player
             df2 = pd.DataFrame({
-            "Nome": driver.find_element_by_xpath('//*[@id="character-name"]/a').text,
-            "Classe": driver.find_element_by_id('character-class').text,
-            "Item_lvl" : driver.find_element_by_id('gear-box-ilvl-text').text[-6:],
-            "Servidor" : driver.find_element_by_xpath('//*[@id="server-link"]').text,
-            "Mortes_temporada" : driver.find_element_by_xpath('//div[2]/table/tbody/tr[2]/td[2]').text
-            },index=[0])
+            "Nome": [driver.find_element_by_xpath('//*[@id="character-name"]/a').text],
+            "Classe": [driver.find_element_by_id('character-class').text],
+            "Item_lvl" : [driver.find_element_by_id('gear-box-ilvl-text').text[-6:]],
+            "Servidor" : [driver.find_element_by_xpath('//*[@id="server-link"]').text],
+            "Mortes_temporada" : [driver.find_element_by_xpath('//div[2]/table/tbody/tr[2]/td[2]').text]
+            })
+            
+            
         
         #Em caso de error, algumas pequenas soluções
         except:
             print('*' * 60,'Deu erro','*' * 60)
-            sleep(5)
             driver.find_element_by_xpath('//*[@id="update-text"]/a').click()
-            sleep(randint(5,7))
+            sleep(5)
             continue
 
         else:
-            #df = df.append(df2)
-
-            #Abre aquivo Json que ja contem alguns itens pre-coletados       
-            data_file = pd.read_json('Data/Data_players.json')
-
-            pd.concat([data_file, df]).drop_duplicates().reset_index(drop=True)
-            for i in range(0, len(df)):
-                if df.loc[i,'Nome'] not in data_file['Nome'].unique():
-                    data_file.append(df.loc[i,::])
+            pd.concat([df3, df2]).drop_duplicates(subset='Nome').reset_index(drop=True)            
+            
+            for i in range(0, len(df3)):
+                if df2.loc[i, 'Nome'] not in df3['Nome'].unique():
+                    df3.append(df2.loc[i,::])
+                    
+            
             
         print('*' * 120)
-        print(df)
+        print(df3)
         print('*' * 120) 
 
         #Gerando json player a player
@@ -81,8 +81,9 @@ while (contador <= 150):
 
 
 
-        #Passando para proxima pagina
-        driver.get(f"https://www.warcraftlogs.com/zone/rankings/25#metric=playerscore&region=1&subregion=1&boss=-1&page={contador}")
-        sleep(4)
+    contador += 1
+    #Passando para proxima pagina
+    driver.get(f"https://www.warcraftlogs.com/zone/rankings/25#metric=playerscore&region=1&subregion=1&boss=-1&page={contador}")
+    sleep(4)
         
 driver.quit()

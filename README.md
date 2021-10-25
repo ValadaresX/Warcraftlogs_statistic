@@ -19,7 +19,7 @@ pip install -r requirements.txt
 
 ## Como utilizar
 
-Execute o arquivo scraping.py no shell, o programa executara uma loop de 150 paginas visitadas (pode ser alterado na linha 32), cada pagina contem 100 players, o intervalo de coleta esta de 5s para não sobrecarregar o site, (pode ser alterado na linha 44).
+Execute o arquivo scraping.py no shell, o programa executara uma loop de 150 paginas visitadas (pode ser alterado), cada pagina contem 100 players, o intervalo de coleta esta de 5s para não sobrecarregar o site, (pode ser alterado).
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
