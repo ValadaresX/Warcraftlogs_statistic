@@ -52,9 +52,7 @@ while (contador <= 150):
             "Item_lvl" : [driver.find_element_by_id('gear-box-ilvl-text').text[-6:]],
             "Servidor" : [driver.find_element_by_xpath('//*[@id="server-link"]').text],
             "Mortes_temporada" : [driver.find_element_by_xpath('//div[2]/table/tbody/tr[2]/td[2]').text]
-            })
-            
-            
+            })           
         
         #Em caso de error, algumas pequenas soluções
         except:
@@ -68,8 +66,7 @@ while (contador <= 150):
             
             for i in range(0, len(df3)):
                 if df2.loc[i, 'Nome'] not in df3['Nome'].unique():
-                    df3.append(df2.loc[i,::])
-                    
+                    df3.append(df2.loc[i,::])                  
             
             
         print('*' * 120)
@@ -78,8 +75,6 @@ while (contador <= 150):
 
         #Gerando json player a player
         #df.to_json("Data/Data_players.json", indent=1, orient='records', force_ascii=False)
-
-
 
     contador += 1
     #Passando para proxima pagina
