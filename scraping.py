@@ -1,4 +1,3 @@
-import json
 import pandas as pd
 from time import sleep
 from random import randint
@@ -22,10 +21,6 @@ driver = webdriver.Firefox(options=options)  # Inclui as opções no navegador
 driver.get("https://www.warcraftlogs.com/zone/rankings/25#metric=playerscore&region=1&subregion=1&boss=-1&page=1")
 # Espera em segundos para que a pagina seja carregada
 sleep(3)
-print('Pegando o item level...')
-
-#Criando DataFrame
-#df = pd.DataFrame(columns = ['Nome','Classe','Item_lvl','Servidor','Mortes_temporada'])
 
 
 contador = 0
