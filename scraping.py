@@ -33,7 +33,9 @@ while (contador <= 150):
     
     #Url da pagina atual
     driver.get(driver.current_url)
-    print(driver.current_url[-6:].upper())        
+    print(driver.current_url[-6:].upper()) 
+
+    nomes_pagina_de_origem = driver.find_elements_by_css_selector("a[class^='main-table-link main-table-player']")
 
     #Para cada item de player
     for i in character_details_links:
@@ -43,17 +45,18 @@ while (contador <= 150):
         try:
             #Adiciona todos os itens da pagina de detalhes do player:
             nome = driver.find_element_by_xpath('//*[@id="character-name"]/a').text
-
+            
             #Verifica se existe o elemento nome por contagem
             if len(df3.loc[df3['Nome'] == nome]) <= 0:
                 
                 #Captura todos os elementos no site e cria DataFrame    
                 df2 = pd.DataFrame({
                 "Nome": [driver.find_element_by_xpath('//*[@id="character-name"]/a').text],
-                "Classe": [driver.find_element_by_id('character-class').text],
                 "Item_lvl" : [driver.find_element_by_id('gear-box-ilvl-text').text[-6:]],
+                "Classe": [driver.find_element_by_id('character-class').text],
                 "Servidor" : [driver.find_element_by_xpath('//*[@id="server-link"]').text],
-                "Mortes_temporada" : [driver.find_element_by_xpath('//div[2]/table/tbody/tr[2]/td[2]').text]})
+                "Mortes_temporada" : [driver.find_element_by_xpath('//div[2]/table/tbody/tr[2]/td[2]').text],
+                "URL" : [driver.current_url.lower()]})
 
                 #Unifica os DataFrames
                 result = pd.concat([df2, df3]).drop_duplicates(subset='Nome').reset_index(drop=True)
