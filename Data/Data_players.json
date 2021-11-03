@@ -1,18 +1,18 @@
 [
- {
-  "Nome":"Timbermawh",
-  "Item_lvl":"251.56",
-  "Classe":"Venthyr Blood Elf Paladin",
-  "Servidor":"Zul'jin (US)",
-  "Mortes_temporada":"131",
-  "URL":"https:\/\/www.warcraftlogs.com\/character\/id\/47673995\/"
- },
- {
-  "Nome":"Equinoxmonk",
-  "Item_lvl":251.94,
-  "Classe":"Kyrian Blood Elf Monk",
-  "Servidor":"Burning Blade (US)",
-  "Mortes_temporada":71,
-  "URL":"HTTPS:\/\/WWW.WARCRAFTLOGS.COM\/CHARACTER\/ID\/61736454\/"
- }
+    {
+        "Nome": "Timbermawh",
+        "Item_lvl": "251.56",
+        "Classe": "Venthyr Blood Elf Paladin",
+        "Servidor": "Zul'jin (US)",
+        "Mortes_temporada": "131",
+        "URL": "https:\/\/www.warcraftlogs.com\/character\/id\/47673995\/"
+    },
+    {
+        "Nome": "Equinoxmonk",
+        "Item_lvl": 251.94,
+        "Classe": "Kyrian Blood Elf Monk",
+        "Servidor": "Burning Blade (US)",
+        "Mortes_temporada": 71,
+        "URL": "https:\/\/www.warcraftlogs.com\/character\/id\/61736454\/"
+    }
 ]
