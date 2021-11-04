@@ -1,42 +1,28 @@
 [
  {
-  "Nome":"Muchasm",
-  "Item_lvl":"254.81",
-  "Classe":"Night Fae Orc Mage",
-  "Servidor":"Illidan (US)",
-  "Mortes_temporada":"94",
-  "URL":"https:\/\/www.warcraftlogs.com\/character\/id\/49447599\/"
- },
- {
-  "Nome":"Pretzuld",
-  "Item_lvl":253.19,
-  "Classe":"Venthyr Troll Druid",
-  "Servidor":"Hyjal (US)",
-  "Mortes_temporada":113,
-  "URL":"https:\/\/www.warcraftlogs.com\/character\/id\/55566646\/"
- },
- {
-  "Nome":"Bobas",
-  "Item_lvl":251.69,
-  "Classe":"Kyrian Blood Elf Warrior",
-  "Servidor":"Hyjal (US)",
-  "Mortes_temporada":106,
-  "URL":"https:\/\/www.warcraftlogs.com\/character\/id\/61343804\/"
- },
- {
-  "Nome":"Dabnel",
-  "Item_lvl":253.56,
-  "Classe":"Necrolord Orc Monk",
-  "Servidor":"Area 52 (US)",
-  "Mortes_temporada":86,
-  "URL":"https:\/\/www.warcraftlogs.com\/character\/id\/44755342\/"
- },
- {
   "Nome":"Azunaz",
-  "Item_lvl":253.63,
+  "Item_lvl":"253.63",
   "Classe":"Night Fae Orc Mage",
   "Servidor":"Illidan (US)",
-  "Mortes_temporada":4,
+  "Mortes_temporada":"4",
+  "gear":[
+   "78.9",
+   "78.9",
+   "Veil of the Banshee Queen",
+   "Interplanar Keystone",
+   "Frame of the False Margrave",
+   "Self-Replicating Tissue",
+   "Diviner's Draped Finery",
+   "Desecrator's Keening Wristwraps",
+   "Soulcaster's Woven Grips",
+   "Sash of Duplicitous Magics",
+   "Sorcerer's Headlong Legwraps",
+   "Sandals of Sacred Symmetry",
+   "Stitchflesh's Misplaced Signet",
+   "Titanic Ocular Gland",
+   "Unchained Gladiator's Badge of Ferocity",
+   "Gnarled Staff of the Elder Shaman"
+  ],
   "URL":"https:\/\/www.warcraftlogs.com\/character\/id\/61043737\/"
  },
  {
@@ -45,6 +31,24 @@
   "Classe":"Venthyr Troll Druid",
   "Servidor":"Illidan (US)",
   "Mortes_temporada":3,
+  "gear":[
+   "92.5",
+   "92.5",
+   "Cap of Writhing Malevolence",
+   "Periapt of Pristine Preservation",
+   "Spaulders of the Crooked Confidant",
+   "Unchained Gladiator's Drape",
+   "Witherheart Studded Breastplate",
+   "Bindings of the Subjugated",
+   "Hangman's Knotbinders",
+   "Elite Aranakk Breeches",
+   "Trenchant Warmonger Treads",
+   "Sworn Oath of the Nine",
+   "Signet of the False Accuser",
+   "Inscrutable Quantum Device",
+   "Forbidden Necromantic Tome",
+   "Maledict Opus"
+  ],
   "URL":"https:\/\/www.warcraftlogs.com\/character\/id\/58786343\/"
  },
  {
@@ -53,6 +57,25 @@
   "Classe":"Venthyr Blood Elf Paladin",
   "Servidor":"Area 52 (US)",
   "Mortes_temporada":5,
+  "gear":[
+   "82.6",
+   "81.0",
+   "Dark Tormentor's Gaze",
+   "Weathered Talisman of the Shadowmoon",
+   "Spires of Broken Hope",
+   "Self-Replicating Tissue",
+   "Cuirass of the Lonely Citadel",
+   "Airborne Abductor's Vambraces",
+   "Cavalier Oathbreaker's Grasps",
+   "Halkias's Towering Pillars",
+   "Greaves of Haunting Ruination",
+   "Miniature Breaking Wheel",
+   "Stitchflesh's Misplaced Signet",
+   "Titanic Ocular Gland",
+   "Soulletting Ruby",
+   "Torch of Eternal Knowledge",
+   "Guard of the Sundered Defender"
+  ],
   "URL":"https:\/\/www.warcraftlogs.com\/character\/id\/39397836\/"
  },
  {
@@ -61,6 +84,22 @@
   "Classe":"Kyrian Zandalari Troll Druid",
   "Servidor":"Area 52 (US)",
   "Mortes_temporada":54,
+  "gear":[
+   "Cap of Writhing Malevolence",
+   "Interplanar Keystone",
+   "Spaulders of the Crooked Confidant",
+   "Witherheart Studded Breastplate",
+   "Fate-Threaded Bindings",
+   "Hangman's Knotbinders",
+   "Windrunner's Baldric",
+   "Elite Aranakk Breeches",
+   "Unstable Energizer Boots",
+   "Stitchflesh's Misplaced Signet",
+   "Oscillating Ouroboros",
+   "Shard of Annhylde's Aegis",
+   "Reactive Defense Matrix",
+   "Xav's Pike of Authority"
+  ],
   "URL":"https:\/\/www.warcraftlogs.com\/character\/id\/42783608\/"
  },
  {
@@ -69,6 +108,24 @@
   "Classe":"Venthyr Blood Elf Rogue",
   "Servidor":"Illidan (US)",
   "Mortes_temporada":77,
+  "gear":[
+   "85.9",
+   "Cap of Writhing Malevolence",
+   "Weathered Talisman of the Shadowmoon",
+   "Spaulders of the Crooked Confidant",
+   "Witherheart Studded Breastplate",
+   "Clasps of the Unfortunate Troubadour",
+   "Loyal Kvaldir's Handwraps",
+   "Windrunner's Baldric",
+   "Elite Aranakk Breeches",
+   "Daschla's Defiant Treads",
+   "Entwined Gorger Tendril",
+   "Tarnished Insignia of Quel'Thalas",
+   "Phial of Putrefaction",
+   "Salvaged Fusion Amplifier",
+   "Edge of Night",
+   "Edge of Night"
+  ],
   "URL":"https:\/\/www.warcraftlogs.com\/character\/id\/62652503\/"
  },
  {
@@ -77,7 +134,49 @@
   "Classe":"Necrolord Orc Hunter",
   "Servidor":"Area 52 (US)",
   "Mortes_temporada":102,
+  "gear":[
+   "Rattling Deadeye Hood",
+   "Periapt of Pristine Preservation",
+   "Pauldrons of Tyrannical Defiance",
+   "Dark Ranger's Quiver",
+   "Colossus Slayer's Hauberk",
+   "Iron Spiked Handgrips",
+   "Ceremonial Construct Clasp",
+   "Blightborne Chain Legguards",
+   "Ragebound Leg Irons",
+   "Signet of the False Accuser",
+   "Ring of Perpetual Conflict",
+   "Titanic Ocular Gland",
+   "Decanter of Endless Howling"
+  ],
   "URL":"https:\/\/www.warcraftlogs.com\/character\/id\/55960512\/"
+ },
+ {
+  "Nome":"Equinoxmonk",
+  "Item_lvl":252.75,
+  "Classe":"Venthyr Blood Elf Monk",
+  "Servidor":"Burning Blade (US)",
+  "Mortes_temporada":77,
+  "gear":[
+   "93.1",
+   "81.7",
+   "Cap of Writhing Malevolence",
+   "Azure-Venom Choker",
+   "Smuggler's Plundered Pauldrons",
+   "Self-Replicating Tissue",
+   "Mawsworn Eviscerator's Cuirass",
+   "Fastened Venombarb Binds",
+   "Loyal Kvaldir's Handwraps",
+   "Windrunner's Baldric",
+   "Elite Aranakk Breeches",
+   "Trenchant Warmonger Treads",
+   "Tarnished Insignia of Quel'Thalas",
+   "Shard of Annhylde's Aegis",
+   "Blood-Spattered Scale",
+   "Cruciform Veinripper",
+   "Cruciform Veinripper"
+  ],
+  "URL":"https:\/\/www.warcraftlogs.com\/character\/id\/61736454\/"
  },
  {
   "Nome":"Psychox",
@@ -85,6 +184,23 @@
   "Classe":"Kyrian Blood Elf Demon Hunter",
   "Servidor":"Illidan (US)",
   "Mortes_temporada":47,
+  "gear":[
+   "Cap of Writhing Malevolence",
+   "Interplanar Keystone",
+   "Spaulders of the Crooked Confidant",
+   "Witherheart Studded Breastplate",
+   "Fate-Threaded Bindings",
+   "Loyal Kvaldir's Handwraps",
+   "Windrunner's Baldric",
+   "Elite Aranakk Breeches",
+   "Unstable Energizer Boots",
+   "Tarnished Insignia of Quel'Thalas",
+   "Miniature Breaking Wheel",
+   "Salvaged Fusion Amplifier",
+   "Phial of Putrefaction",
+   "Cruciform Veinripper",
+   "Cruciform Veinripper"
+  ],
   "URL":"https:\/\/www.warcraftlogs.com\/character\/id\/42486090\/"
  },
  {
@@ -93,6 +209,22 @@
   "Classe":"Night Fae Tauren Druid",
   "Servidor":"Tichondrius (US)",
   "Mortes_temporada":89,
+  "gear":[
+   "Cap of Writhing Malevolence",
+   "Interplanar Keystone",
+   "Smuggler's Plundered Pauldrons",
+   "Witherheart Studded Breastplate",
+   "Risen Monstrosity Cuffs",
+   "Hangman's Knotbinders",
+   "Windrunner's Baldric",
+   "Elite Aranakk Breeches",
+   "Trenchant Warmonger Treads",
+   "Stitchflesh's Misplaced Signet",
+   "Oscillating Ouroboros",
+   "Shard of Annhylde's Aegis",
+   "Reactive Defense Matrix",
+   "Halberd of the Aranakk"
+  ],
   "URL":"https:\/\/www.warcraftlogs.com\/character\/id\/62084645\/"
  },
  {
@@ -101,6 +233,23 @@
   "Classe":"Venthyr Troll Druid",
   "Servidor":"Tichondrius (US)",
   "Mortes_temporada":102,
+  "gear":[
+   "94.5",
+   "Cap of Writhing Malevolence",
+   "Periapt of Pristine Preservation",
+   "Spaulders of the Crooked Confidant",
+   "Self-Replicating Tissue",
+   "Witherheart Studded Breastplate",
+   "Risen Monstrosity Cuffs",
+   "Hangman's Knotbinders",
+   "Skyterror's Stonehide Leggings",
+   "Trenchant Warmonger Treads",
+   "Sworn Oath of the Nine",
+   "Death God's Signet",
+   "Inscrutable Quantum Device",
+   "Titanic Ocular Gland",
+   "Maledict Opus"
+  ],
   "URL":"https:\/\/www.warcraftlogs.com\/character\/id\/37517409\/"
  },
  {
@@ -108,15 +257,51 @@
   "Item_lvl":251.56,
   "Classe":"Venthyr Blood Elf Paladin",
   "Servidor":"Zul'jin (US)",
-  "Mortes_temporada":131,
+  "Mortes_temporada":141,
+  "gear":[
+   "81.9",
+   "Dark Tormentor's Gaze",
+   "Interplanar Keystone",
+   "Spires of Broken Hope",
+   "Self-Replicating Tissue",
+   "Cuirass of the Lonely Citadel",
+   "Airborne Abductor's Vambraces",
+   "Guillotine Gauntlets",
+   "Halkias's Towering Pillars",
+   "Sabatons of the Rushing Juggernaut",
+   "Oscillating Ouroboros",
+   "Stitchflesh's Misplaced Signet",
+   "Soulletting Ruby",
+   "Titanic Ocular Gland",
+   "Torch of Eternal Knowledge",
+   "Guard of the Sundered Defender"
+  ],
   "URL":"https:\/\/www.warcraftlogs.com\/character\/id\/47673995\/"
  },
  {
-  "Nome":"Equinoxmonk",
-  "Item_lvl":251.94,
-  "Classe":"Kyrian Blood Elf Monk",
-  "Servidor":"Burning Blade (US)",
-  "Mortes_temporada":71,
-  "URL":"https:\/\/www.warcraftlogs.com\/character\/id\/61736454\/"
+  "Nome":"Poprok",
+  "Item_lvl":253.13,
+  "Classe":"Kyrian Blood Elf Demon Hunter",
+  "Servidor":"Illidan (US)",
+  "Mortes_temporada":77,
+  "gear":[
+   "85.7",
+   "Cap of Writhing Malevolence",
+   "Interplanar Keystone",
+   "Smuggler's Plundered Pauldrons",
+   "Self-Replicating Tissue",
+   "Witherheart Studded Breastplate",
+   "Loyal Kvaldir's Handwraps",
+   "Windrunner's Baldric",
+   "Abyssal Disharmony Breeches",
+   "Unstable Energizer Boots",
+   "Oscillating Ouroboros",
+   "Bloodoath Signet",
+   "Shard of Annhylde's Aegis",
+   "Reactive Defense Matrix",
+   "Elethium-Bladed Glaive",
+   "Elethium-Bladed Glaive"
+  ],
+  "URL":"https:\/\/www.warcraftlogs.com\/character\/id\/61581689\/"
  }
 ]

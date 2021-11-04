@@ -29,6 +29,7 @@ while (contador <= 150):
         
     #Pega todos os links dos players da pagina
     character_details_links = [href.get_attribute("href") for href in driver.find_elements_by_xpath("//td[2]/div/a[@href]")]
+
     
     
     
@@ -56,6 +57,7 @@ while (contador <= 150):
                 "Classe": [driver.find_element_by_id('character-class').text],
                 "Servidor" : [driver.find_element_by_xpath('//*[@id="server-link"]').text],
                 "Mortes_temporada" : [driver.find_element_by_xpath('//div[2]/table/tbody/tr[2]/td[2]').text],
+                "gear" : [[i.text for i in driver.find_elements_by_xpath('//*[@class="epic"]')]],
                 "URL" : [driver.current_url.lower()]})
 
                 #Unifica os DataFrames
