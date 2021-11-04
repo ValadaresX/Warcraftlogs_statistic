@@ -1,0 +1,2877 @@
+[
+ {
+  "name_talent":"Binding Shackles",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=321468\/binding-shackles",
+  "classe_talent_name":"hunter"
+ },
+ {
+  "name_talent":"Celestial Flames",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=325177\/celestial-flames",
+  "classe_talent_name":"monk"
+ },
+ {
+  "name_talent":"War Machine",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=316733\/war-machine",
+  "classe_talent_name":"warrior"
+ },
+ {
+  "name_talent":"From the Ashes",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=342344\/from-the-ashes",
+  "classe_talent_name":"mage"
+ },
+ {
+  "name_talent":"Seethe",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=335091\/seethe",
+  "classe_talent_name":"warrior"
+ },
+ {
+  "name_talent":"Rumbling Earth",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=275339\/rumbling-earth",
+  "classe_talent_name":"warrior"
+ },
+ {
+  "name_talent":"Surge of Earth",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=320746\/surge-of-earth",
+  "classe_talent_name":"shaman"
+ },
+ {
+  "name_talent":"Furious Charge",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=202224\/furious-charge",
+  "classe_talent_name":"warrior"
+ },
+ {
+  "name_talent":"Shield Discipline",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=197045\/shield-discipline",
+  "classe_talent_name":"priest"
+ },
+ {
+  "name_talent":"Moment of Glory",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=327193\/moment-of-glory",
+  "classe_talent_name":"paladin"
+ },
+ {
+  "name_talent":"Ice Strike",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=342240\/ice-strike",
+  "classe_talent_name":"shaman"
+ },
+ {
+  "name_talent":"Tightening Grasp",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=206970\/tightening-grasp",
+  "classe_talent_name":"death-knight"
+ },
+ {
+  "name_talent":"Master of Time",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=342249\/master-of-time",
+  "classe_talent_name":"mage"
+ },
+ {
+  "name_talent":"Chimaera Shot",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=342049\/chimaera-shot",
+  "classe_talent_name":"hunter"
+ },
+ {
+  "name_talent":"Ruinous Bulwark",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=326853\/ruinous-bulwark",
+  "classe_talent_name":"demon-hunter"
+ },
+ {
+  "name_talent":"Internal Combustion",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=266134\/internal-combustion",
+  "classe_talent_name":"warlock"
+ },
+ {
+  "name_talent":"Dead Eye",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=321460\/dead-eye",
+  "classe_talent_name":"hunter"
+ },
+ {
+  "name_talent":"Spitfire",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=242580\/spitfire",
+  "classe_talent_name":"monk"
+ },
+ {
+  "name_talent":"Glacial Insulation",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=235297\/glacial-insulation",
+  "classe_talent_name":"mage"
+ },
+ {
+  "name_talent":"Concentrated Sigils",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=207666\/concentrated-sigils",
+  "classe_talent_name":"demon-hunter"
+ },
+ {
+  "name_talent":"Tooth and Claw",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=135288\/tooth-and-claw",
+  "classe_talent_name":"druid"
+ },
+ {
+  "name_talent":"Death's Reach",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=276079\/deaths-reach",
+  "classe_talent_name":"death-knight"
+ },
+ {
+  "name_talent":"Blinding Powder",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=256165\/blinding-powder",
+  "classe_talent_name":"rogue"
+ },
+ {
+  "name_talent":"Static Discharge",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=342243\/static-discharge",
+  "classe_talent_name":"shaman"
+ },
+ {
+  "name_talent":"Bulk Extraction",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=320341\/bulk-extraction",
+  "classe_talent_name":"demon-hunter"
+ },
+ {
+  "name_talent":"Feral Affinity",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=202155\/feral-affinity",
+  "classe_talent_name":"druid"
+ },
+ {
+  "name_talent":"Weaponmaster",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=200733\/weaponmaster",
+  "classe_talent_name":"rogue"
+ },
+ {
+  "name_talent":"Renewed Faith",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=341997\/renewed-faith",
+  "classe_talent_name":"priest"
+ },
+ {
+  "name_talent":"Menace",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=275338\/menace",
+  "classe_talent_name":"warrior"
+ },
+ {
+  "name_talent":"Lethal Shots",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=260393\/lethal-shots",
+  "classe_talent_name":"hunter"
+ },
+ {
+  "name_talent":"Iron Stomach",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=193546\/iron-stomach",
+  "classe_talent_name":"rogue"
+ },
+ {
+  "name_talent":"Fire Nova",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=333974\/fire-nova",
+  "classe_talent_name":"shaman"
+ },
+ {
+  "name_talent":"Echo of the Elements",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=333919\/echo-of-the-elements",
+  "classe_talent_name":"shaman"
+ },
+ {
+  "name_talent":"Exploding Keg",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=325153\/exploding-keg",
+  "classe_talent_name":"monk"
+ },
+ {
+  "name_talent":"Infernal Armor",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=320331\/infernal-armor",
+  "classe_talent_name":"demon-hunter"
+ },
+ {
+  "name_talent":"Scent of Blood",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=285564\/scent-of-blood",
+  "classe_talent_name":"druid"
+ },
+ {
+  "name_talent":"Redoubt",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=280373\/redoubt",
+  "classe_talent_name":"paladin"
+ },
+ {
+  "name_talent":"Unstoppable Force",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=275336\/unstoppable-force",
+  "classe_talent_name":"warrior"
+ },
+ {
+  "name_talent":"Infected Claws",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=207272\/infected-claws",
+  "classe_talent_name":"death-knight"
+ },
+ {
+  "name_talent":"Hit and Run",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=196922\/hit-and-run",
+  "classe_talent_name":"rogue"
+ },
+ {
+  "name_talent":"Frenzy",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=335077\/frenzy",
+  "classe_talent_name":"warrior"
+ },
+ {
+  "name_talent":"Flash Flood",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=280614\/flash-flood",
+  "classe_talent_name":"shaman"
+ },
+ {
+  "name_talent":"Punish",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=275334\/punish",
+  "classe_talent_name":"warrior"
+ },
+ {
+  "name_talent":"Serpent Sting",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=271788\/serpent-sting",
+  "classe_talent_name":"hunter"
+ },
+ {
+  "name_talent":"Inferno",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=270545\/inferno",
+  "classe_talent_name":"warlock"
+ },
+ {
+  "name_talent":"Deadly Calm",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=262228\/deadly-calm",
+  "classe_talent_name":"warrior"
+ },
+ {
+  "name_talent":"Alexstrasza's Fury",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=235870\/alexstraszas-fury",
+  "classe_talent_name":"mage"
+ },
+ {
+  "name_talent":"Blazing Soul",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=235365\/blazing-soul",
+  "classe_talent_name":"mage"
+ },
+ {
+  "name_talent":"Guardian of Elune",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=155578\/guardian-of-elune",
+  "classe_talent_name":"druid"
+ },
+ {
+  "name_talent":"Relish in Blood",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=317610\/relish-in-blood",
+  "classe_talent_name":"death-knight"
+ },
+ {
+  "name_talent":"Intangibility",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=288733\/intangibility",
+  "classe_talent_name":"priest"
+ },
+ {
+  "name_talent":"Harbinger of Doom",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=276023\/harbinger-of-doom",
+  "classe_talent_name":"death-knight"
+ },
+ {
+  "name_talent":"Creeping Death",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=264000\/creeping-death",
+  "classe_talent_name":"warlock"
+ },
+ {
+  "name_talent":"Calling the Shots",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=260404\/calling-the-shots",
+  "classe_talent_name":"hunter"
+ },
+ {
+  "name_talent":"Angel's Mercy",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=238100\/angels-mercy",
+  "classe_talent_name":"priest"
+ },
+ {
+  "name_talent":"Guardian Affinity",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=217615\/guardian-affinity",
+  "classe_talent_name":"druid"
+ },
+ {
+  "name_talent":"Blackout Combo",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=196736\/blackout-combo",
+  "classe_talent_name":"monk"
+ },
+ {
+  "name_talent":"Absolute Corruption",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=196103\/absolute-corruption",
+  "classe_talent_name":"warlock"
+ },
+ {
+  "name_talent":"Reverberate",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=281482\/reverberate",
+  "classe_talent_name":"mage"
+ },
+ {
+  "name_talent":"Terms of Engagement",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=265895\/terms-of-engagement",
+  "classe_talent_name":"hunter"
+ },
+ {
+  "name_talent":"Last Word",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=263716\/last-word",
+  "classe_talent_name":"priest"
+ },
+ {
+  "name_talent":"Spitting Cobra",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=257891\/spitting-cobra",
+  "classe_talent_name":"hunter"
+ },
+ {
+  "name_talent":"Retractable Hook",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=256188\/retractable-hook",
+  "classe_talent_name":"rogue"
+ },
+ {
+  "name_talent":"Lenience",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=238063\/lenience",
+  "classe_talent_name":"priest"
+ },
+ {
+  "name_talent":"Frenetic Speed",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=236058\/frenetic-speed",
+  "classe_talent_name":"mage"
+ },
+ {
+  "name_talent":"Cavalier",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=230332\/cavalier",
+  "classe_talent_name":"paladin"
+ },
+ {
+  "name_talent":"Pyromaniac",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=205020\/pyromaniac",
+  "classe_talent_name":"mage"
+ },
+ {
+  "name_talent":"Censure",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=200199\/censure",
+  "classe_talent_name":"priest"
+ },
+ {
+  "name_talent":"Afterlife",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=196707\/afterlife",
+  "classe_talent_name":"priest"
+ },
+ {
+  "name_talent":"Nourish",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=50464\/nourish",
+  "classe_talent_name":"druid"
+ },
+ {
+  "name_talent":"Solstice",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=343647\/solstice",
+  "classe_talent_name":"druid"
+ },
+ {
+  "name_talent":"Sanctified Wrath",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=317866\/sanctified-wrath",
+  "classe_talent_name":"paladin"
+ },
+ {
+  "name_talent":"Dark Shadow",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=245687\/dark-shadow",
+  "classe_talent_name":"rogue"
+ },
+ {
+  "name_talent":"Tombstone",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=219809\/tombstone",
+  "classe_talent_name":"death-knight"
+ },
+ {
+  "name_talent":"Soul Rending",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=217996\/soul-rending",
+  "classe_talent_name":"demon-hunter"
+ },
+ {
+  "name_talent":"Feast of Souls",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=207697\/feast-of-souls",
+  "classe_talent_name":"demon-hunter"
+ },
+ {
+  "name_talent":"Lifecycles",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=197915\/lifecycles",
+  "classe_talent_name":"monk"
+ },
+ {
+  "name_talent":"Frozen Pulse",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=194909\/frozen-pulse",
+  "classe_talent_name":"death-knight"
+ },
+ {
+  "name_talent":"Soul of the Forest",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=158477\/soul-of-the-forest",
+  "classe_talent_name":"druid"
+ },
+ {
+  "name_talent":"Venom Rush",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=152152\/venom-rush",
+  "classe_talent_name":"rogue"
+ },
+ {
+  "name_talent":"Prayer Circle",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=321377\/prayer-circle",
+  "classe_talent_name":"priest"
+ },
+ {
+  "name_talent":"Upwelling",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=274963\/upwelling",
+  "classe_talent_name":"monk"
+ },
+ {
+  "name_talent":"Rule of Threes",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=264354\/rule-of-threes",
+  "classe_talent_name":"mage"
+ },
+ {
+  "name_talent":"Permafrost",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=207200\/permafrost",
+  "classe_talent_name":"death-knight"
+ },
+ {
+  "name_talent":"Anti-Magic Barrier",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=205727\/anti-magic-barrier",
+  "classe_talent_name":"death-knight"
+ },
+ {
+  "name_talent":"Castigation",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=193134\/castigation",
+  "classe_talent_name":"priest"
+ },
+ {
+  "name_talent":"Meat Cleaver",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=280392\/meat-cleaver",
+  "classe_talent_name":"warrior"
+ },
+ {
+  "name_talent":"Dancing Steel",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=272026\/dancing-steel",
+  "classe_talent_name":"rogue"
+ },
+ {
+  "name_talent":"Righteous Verdict",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=267610\/righteous-verdict",
+  "classe_talent_name":"paladin"
+ },
+ {
+  "name_talent":"Inner Strength",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=261767\/inner-strength",
+  "classe_talent_name":"monk"
+ },
+ {
+  "name_talent":"Feed the Demon",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=218612\/feed-the-demon",
+  "classe_talent_name":"demon-hunter"
+ },
+ {
+  "name_talent":"Foul Bulwark",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=206974\/foul-bulwark",
+  "classe_talent_name":"death-knight"
+ },
+ {
+  "name_talent":"Mark of Blood",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=206940\/mark-of-blood",
+  "classe_talent_name":"death-knight"
+ },
+ {
+  "name_talent":"Undulation",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=200071\/undulation",
+  "classe_talent_name":"shaman"
+ },
+ {
+  "name_talent":"Light of the Naaru",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=196985\/light-of-the-naaru",
+  "classe_talent_name":"priest"
+ },
+ {
+  "name_talent":"Enlightenment",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=193155\/enlightenment",
+  "classe_talent_name":"priest"
+ },
+ {
+  "name_talent":"Charred Flesh",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=336639\/charred-flesh",
+  "classe_talent_name":"demon-hunter"
+ },
+ {
+  "name_talent":"Enlightened",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=321387\/enlightened",
+  "classe_talent_name":"mage"
+ },
+ {
+  "name_talent":"Leeching Poison",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=280716\/leeching-poison",
+  "classe_talent_name":"rogue"
+ },
+ {
+  "name_talent":"Good Karma",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=280195\/good-karma",
+  "classe_talent_name":"monk"
+ },
+ {
+  "name_talent":"Alpha Predator",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=269737\/alpha-predator",
+  "classe_talent_name":"hunter"
+ },
+ {
+  "name_talent":"Downpour",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=207778\/downpour",
+  "classe_talent_name":"shaman"
+ },
+ {
+  "name_talent":"Desperate Instincts",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=205411\/desperate-instincts",
+  "classe_talent_name":"demon-hunter"
+ },
+ {
+  "name_talent":"Never Surrender",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=202561\/never-surrender",
+  "classe_talent_name":"warrior"
+ },
+ {
+  "name_talent":"Deluge",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=200076\/deluge",
+  "classe_talent_name":"shaman"
+ },
+ {
+  "name_talent":"San'layn",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=199855\/sanlayn",
+  "classe_talent_name":"priest"
+ },
+ {
+  "name_talent":"Burning Hatred",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=320374\/burning-hatred",
+  "classe_talent_name":"demon-hunter"
+ },
+ {
+  "name_talent":"Spiritual Focus",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=280197\/spiritual-focus",
+  "classe_talent_name":"monk"
+ },
+ {
+  "name_talent":"Hemostasis",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=273946\/hemostasis",
+  "classe_talent_name":"death-knight"
+ },
+ {
+  "name_talent":"Tiger Tail Sweep",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=264348\/tiger-tail-sweep",
+  "classe_talent_name":"monk"
+ },
+ {
+  "name_talent":"Hydra's Bite",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=260241\/hydras-bite",
+  "classe_talent_name":"hunter"
+ },
+ {
+  "name_talent":"Shot in the Dark",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=257505\/shot-in-the-dark",
+  "classe_talent_name":"rogue"
+ },
+ {
+  "name_talent":"Devastator",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=236279\/devastator",
+  "classe_talent_name":"warrior"
+ },
+ {
+  "name_talent":"Moment of Clarity",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=236068\/moment-of-clarity",
+  "classe_talent_name":"druid"
+ },
+ {
+  "name_talent":"Spirit of the Crane",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=210802\/spirit-of-the-crane",
+  "classe_talent_name":"monk"
+ },
+ {
+  "name_talent":"Inner Peace",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=197073\/inner-peace",
+  "classe_talent_name":"druid"
+ },
+ {
+  "name_talent":"Supernova",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=157980\/supernova",
+  "classe_talent_name":"mage"
+ },
+ {
+  "name_talent":"Stormflurry",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=344357\/stormflurry",
+  "classe_talent_name":"shaman"
+ },
+ {
+  "name_talent":"Blindside",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=328085\/blindside",
+  "classe_talent_name":"rogue"
+ },
+ {
+  "name_talent":"Voracious",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=273953\/voracious",
+  "classe_talent_name":"death-knight"
+ },
+ {
+  "name_talent":"Static Charge",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=265046\/static-charge",
+  "classe_talent_name":"shaman"
+ },
+ {
+  "name_talent":"Dominant Mind",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=205367\/dominant-mind",
+  "classe_talent_name":"priest"
+ },
+ {
+  "name_talent":"Crusader's Judgment",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=204023\/crusaders-judgment",
+  "classe_talent_name":"paladin"
+ },
+ {
+  "name_talent":"Bounding Stride",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=202163\/bounding-stride",
+  "classe_talent_name":"warrior"
+ },
+ {
+  "name_talent":"Pestilent Pustules",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=194917\/pestilent-pustules",
+  "classe_talent_name":"death-knight"
+ },
+ {
+  "name_talent":"Surge of Light",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=109186\/surge-of-light",
+  "classe_talent_name":"priest"
+ },
+ {
+  "name_talent":"Incarnation: King of the Jungle",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=102543\/incarnation-king-of-the-jungle",
+  "classe_talent_name":"druid"
+ },
+ {
+  "name_talent":"Lashing Flames",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=334046\/lashing-flames",
+  "classe_talent_name":"shaman"
+ },
+ {
+  "name_talent":"Hypothermic Presence",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=321995\/hypothermic-presence",
+  "classe_talent_name":"death-knight"
+ },
+ {
+  "name_talent":"Bolster",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=280001\/bolster",
+  "classe_talent_name":"warrior"
+ },
+ {
+  "name_talent":"Killer Instinct",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=273887\/killer-instinct",
+  "classe_talent_name":"hunter"
+ },
+ {
+  "name_talent":"Darkfury",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=264874\/darkfury",
+  "classe_talent_name":"warlock"
+ },
+ {
+  "name_talent":"Soul Barrier",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=263648\/soul-barrier",
+  "classe_talent_name":"demon-hunter"
+ },
+ {
+  "name_talent":"Slipstream",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=236457\/slipstream",
+  "classe_talent_name":"mage"
+ },
+ {
+  "name_talent":"Ebon Fever",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=207269\/ebon-fever",
+  "classe_talent_name":"death-knight"
+ },
+ {
+  "name_talent":"Avalanche",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=207142\/avalanche",
+  "classe_talent_name":"death-knight"
+ },
+ {
+  "name_talent":"Murderous Efficiency",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=207061\/murderous-efficiency",
+  "classe_talent_name":"death-knight"
+ },
+ {
+  "name_talent":"Survival of the Fittest",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=203965\/survival-of-the-fittest",
+  "classe_talent_name":"druid"
+ },
+ {
+  "name_talent":"Mana Tea",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=197908\/mana-tea",
+  "classe_talent_name":"monk"
+ },
+ {
+  "name_talent":"Refreshing Jade Wind",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=196725\/refreshing-jade-wind",
+  "classe_talent_name":"monk"
+ },
+ {
+  "name_talent":"Glacial Advance",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=194913\/glacial-advance",
+  "classe_talent_name":"death-knight"
+ },
+ {
+  "name_talent":"Masochism",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=193063\/masochism",
+  "classe_talent_name":"priest"
+ },
+ {
+  "name_talent":"Saved by the Light",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=157047\/saved-by-the-light",
+  "classe_talent_name":"paladin"
+ },
+ {
+  "name_talent":"Celerity",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=115173\/celerity",
+  "classe_talent_name":"monk"
+ },
+ {
+  "name_talent":"Damnation",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=341374\/damnation",
+  "classe_talent_name":"priest"
+ },
+ {
+  "name_talent":"Cruelty",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=335070\/cruelty",
+  "classe_talent_name":"warrior"
+ },
+ {
+  "name_talent":"Death and Madness",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=321291\/death-and-madness",
+  "classe_talent_name":"priest"
+ },
+ {
+  "name_talent":"Stormkeeper",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=320137\/stormkeeper",
+  "classe_talent_name":"shaman"
+ },
+ {
+  "name_talent":"Twist of Fate",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=265259\/twist-of-fate",
+  "classe_talent_name":"priest"
+ },
+ {
+  "name_talent":"Cosmic Ripple",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=238136\/cosmic-ripple",
+  "classe_talent_name":"priest"
+ },
+ {
+  "name_talent":"Warpaint",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=208154\/warpaint",
+  "classe_talent_name":"warrior"
+ },
+ {
+  "name_talent":"Abyssal Strike",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=207550\/abyssal-strike",
+  "classe_talent_name":"demon-hunter"
+ },
+ {
+  "name_talent":"Blood Frenzy",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=203962\/blood-frenzy",
+  "classe_talent_name":"druid"
+ },
+ {
+  "name_talent":"Dirty Tricks",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=108216\/dirty-tricks",
+  "classe_talent_name":"rogue"
+ },
+ {
+  "name_talent":"Binding Heal",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=32546\/binding-heal",
+  "classe_talent_name":"priest"
+ },
+ {
+  "name_talent":"Inevitable Demise",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=334319\/inevitable-demise",
+  "classe_talent_name":"warlock"
+ },
+ {
+  "name_talent":"Surge of Power",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=262303\/surge-of-power",
+  "classe_talent_name":"shaman"
+ },
+ {
+  "name_talent":"Soul Conduit",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=215941\/soul-conduit",
+  "classe_talent_name":"warlock"
+ },
+ {
+  "name_talent":"Runic Attenuation",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=207104\/runic-attenuation",
+  "classe_talent_name":"death-knight"
+ },
+ {
+  "name_talent":"Overgrowth",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=203651\/overgrowth",
+  "classe_talent_name":"druid"
+ },
+ {
+  "name_talent":"Fires of Justice",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=203316\/fires-of-justice",
+  "classe_talent_name":"paladin"
+ },
+ {
+  "name_talent":"Howl of Terror",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=5484\/howl-of-terror",
+  "classe_talent_name":"warlock"
+ },
+ {
+  "name_talent":"Night Terrors",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=277953\/night-terrors",
+  "classe_talent_name":"rogue"
+ },
+ {
+  "name_talent":"Photosynthesis",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=274902\/photosynthesis",
+  "classe_talent_name":"druid"
+ },
+ {
+  "name_talent":"Flanking Strike",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=269751\/flanking-strike",
+  "classe_talent_name":"hunter"
+ },
+ {
+  "name_talent":"Void Reaver",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=268175\/void-reaver",
+  "classe_talent_name":"demon-hunter"
+ },
+ {
+  "name_talent":"Rule of Law",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=214202\/rule-of-law",
+  "classe_talent_name":"paladin"
+ },
+ {
+  "name_talent":"Massacre",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=206315\/massacre",
+  "classe_talent_name":"warrior"
+ },
+ {
+  "name_talent":"Ice Ward",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=205036\/ice-ward",
+  "classe_talent_name":"mage"
+ },
+ {
+  "name_talent":"Indomitable",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=202095\/indomitable",
+  "classe_talent_name":"warrior"
+ },
+ {
+  "name_talent":"Fire and Brimstone",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=196408\/fire-and-brimstone",
+  "classe_talent_name":"warlock"
+ },
+ {
+  "name_talent":"Light Brewing",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=325093\/light-brewing",
+  "classe_talent_name":"monk"
+ },
+ {
+  "name_talent":"Hand of the Protector",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=315924\/hand-of-the-protector",
+  "classe_talent_name":"paladin"
+ },
+ {
+  "name_talent":"Bilescourge Bombers",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=267211\/bilescourge-bombers",
+  "classe_talent_name":"warlock"
+ },
+ {
+  "name_talent":"Guerrilla Tactics",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=264332\/guerrilla-tactics",
+  "classe_talent_name":"hunter"
+ },
+ {
+  "name_talent":"Frothing Berserker",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=215571\/frothing-berserker",
+  "classe_talent_name":"warrior"
+ },
+ {
+  "name_talent":"Spell Eater",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=207321\/spell-eater",
+  "classe_talent_name":"death-knight"
+ },
+ {
+  "name_talent":"Unleashed Power",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=206477\/unleashed-power",
+  "classe_talent_name":"demon-hunter"
+ },
+ {
+  "name_talent":"Soothing Darkness",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=200759\/soothing-darkness",
+  "classe_talent_name":"rogue"
+ },
+ {
+  "name_talent":"Balance Affinity",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=197632\/balance-affinity",
+  "classe_talent_name":"druid"
+ },
+ {
+  "name_talent":"Benediction",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=193157\/benediction",
+  "classe_talent_name":"priest"
+ },
+ {
+  "name_talent":"Black Ox Brew",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=115399\/black-ox-brew",
+  "classe_talent_name":"monk"
+ },
+ {
+  "name_talent":"Nether Tempest",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=114923\/nether-tempest",
+  "classe_talent_name":"mage"
+ },
+ {
+  "name_talent":"Hailstorm",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=334195\/hailstorm",
+  "classe_talent_name":"shaman"
+ },
+ {
+  "name_talent":"Bloodtalons",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=319439\/bloodtalons",
+  "classe_talent_name":"druid"
+ },
+ {
+  "name_talent":"Fracture",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=263642\/fracture",
+  "classe_talent_name":"demon-hunter"
+ },
+ {
+  "name_talent":"Conflagration",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=205023\/conflagration",
+  "classe_talent_name":"mage"
+ },
+ {
+  "name_talent":"Brambles",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=203953\/brambles",
+  "classe_talent_name":"druid"
+ },
+ {
+  "name_talent":"Booming Voice",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=202743\/booming-voice",
+  "classe_talent_name":"warrior"
+ },
+ {
+  "name_talent":"Empyrean Power",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=326732\/empyrean-power",
+  "classe_talent_name":"paladin"
+ },
+ {
+  "name_talent":"Aftershock",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=273221\/aftershock",
+  "classe_talent_name":"shaman"
+ },
+ {
+  "name_talent":"Viper's Venom",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=268501\/vipers-venom",
+  "classe_talent_name":"hunter"
+ },
+ {
+  "name_talent":"Born To Be Wild",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=266921\/born-to-be-wild",
+  "classe_talent_name":"hunter"
+ },
+ {
+  "name_talent":"Burning Alive",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=207739\/burning-alive",
+  "classe_talent_name":"demon-hunter"
+ },
+ {
+  "name_talent":"Blinding Sleet",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=207167\/blinding-sleet",
+  "classe_talent_name":"death-knight"
+ },
+ {
+  "name_talent":"Icecap",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=207126\/icecap",
+  "classe_talent_name":"death-knight"
+ },
+ {
+  "name_talent":"Red Thirst",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=205723\/red-thirst",
+  "classe_talent_name":"death-knight"
+ },
+ {
+  "name_talent":"Best Served Cold",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=202560\/best-served-cold",
+  "classe_talent_name":"warrior"
+ },
+ {
+  "name_talent":"One with the Pack",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=199528\/one-with-the-pack",
+  "classe_talent_name":"hunter"
+ },
+ {
+  "name_talent":"Bristling Fur",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=155835\/bristling-fur",
+  "classe_talent_name":"druid"
+ },
+ {
+  "name_talent":"Unholy Pact",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=319230\/unholy-pact",
+  "classe_talent_name":"death-knight"
+ },
+ {
+  "name_talent":"Insatiable Hunger",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=258876\/insatiable-hunger",
+  "classe_talent_name":"demon-hunter"
+ },
+ {
+  "name_talent":"Eye for an Eye",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=205191\/eye-for-an-eye",
+  "classe_talent_name":"paladin"
+ },
+ {
+  "name_talent":"Psychic Voice",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=196704\/psychic-voice",
+  "classe_talent_name":"priest"
+ },
+ {
+  "name_talent":"Nightfall",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=108558\/nightfall",
+  "classe_talent_name":"warlock"
+ },
+ {
+  "name_talent":"Unfurling Darkness",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=341273\/unfurling-darkness",
+  "classe_talent_name":"priest"
+ },
+ {
+  "name_talent":"Ancient Madness",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=341240\/ancient-madness",
+  "classe_talent_name":"priest"
+ },
+ {
+  "name_talent":"Hidden Blades",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=270061\/hidden-blades",
+  "classe_talent_name":"rogue"
+ },
+ {
+  "name_talent":"From the Shadows",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=267170\/from-the-shadows",
+  "classe_talent_name":"warlock"
+ },
+ {
+  "name_talent":"Dreadlash",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=264078\/dreadlash",
+  "classe_talent_name":"warlock"
+ },
+ {
+  "name_talent":"Frigid Winds",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=235224\/frigid-winds",
+  "classe_talent_name":"mage"
+ },
+ {
+  "name_talent":"Justicar's Vengeance",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=215661\/justicars-vengeance",
+  "classe_talent_name":"paladin"
+ },
+ {
+  "name_talent":"Predator",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=202021\/predator",
+  "classe_talent_name":"druid"
+ },
+ {
+  "name_talent":"Crashing Storm",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=192246\/crashing-storm",
+  "classe_talent_name":"shaman"
+ },
+ {
+  "name_talent":"Energizing Elixir",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=115288\/energizing-elixir",
+  "classe_talent_name":"monk"
+ },
+ {
+  "name_talent":"Collateral Damage",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=334779\/collateral-damage",
+  "classe_talent_name":"warrior"
+ },
+ {
+  "name_talent":"Firestarter",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=205026\/firestarter",
+  "classe_talent_name":"mage"
+ },
+ {
+  "name_talent":"Iron Wire",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=196861\/iron-wire",
+  "classe_talent_name":"rogue"
+ },
+ {
+  "name_talent":"Sacrificed Souls",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=267214\/sacrificed-souls",
+  "classe_talent_name":"warlock"
+ },
+ {
+  "name_talent":"Forceful Winds",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=262647\/forceful-winds",
+  "classe_talent_name":"shaman"
+ },
+ {
+  "name_talent":"Ebonbolt",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=257537\/ebonbolt",
+  "classe_talent_name":"mage"
+ },
+ {
+  "name_talent":"Ravager",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=228920\/ravager",
+  "classe_talent_name":"warrior"
+ },
+ {
+  "name_talent":"Fallout",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=227174\/fallout",
+  "classe_talent_name":"demon-hunter"
+ },
+ {
+  "name_talent":"Quickened Sigils",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=209281\/quickened-sigils",
+  "classe_talent_name":"demon-hunter"
+ },
+ {
+  "name_talent":"Fervor of Battle",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=202316\/fervor-of-battle",
+  "classe_talent_name":"warrior"
+ },
+ {
+  "name_talent":"Kindling",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=155148\/kindling",
+  "classe_talent_name":"mage"
+ },
+ {
+  "name_talent":"Death Pact",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=48743\/death-pact",
+  "classe_talent_name":"death-knight"
+ },
+ {
+  "name_talent":"Onslaught",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=315720\/onslaught",
+  "classe_talent_name":"warrior"
+ },
+ {
+  "name_talent":"Siegebreaker",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=280772\/siegebreaker",
+  "classe_talent_name":"warrior"
+ },
+ {
+  "name_talent":"Searing Touch",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=269644\/searing-touch",
+  "classe_talent_name":"mage"
+ },
+ {
+  "name_talent":"Zeal",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=269569\/zeal",
+  "classe_talent_name":"paladin"
+ },
+ {
+  "name_talent":"Reverse Entropy",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=205148\/reverse-entropy",
+  "classe_talent_name":"warlock"
+ },
+ {
+  "name_talent":"Bone Chilling",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=205027\/bone-chilling",
+  "classe_talent_name":"mage"
+ },
+ {
+  "name_talent":"Final Stand",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=204077\/final-stand",
+  "classe_talent_name":"paladin"
+ },
+ {
+  "name_talent":"Starlord",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=202345\/starlord",
+  "classe_talent_name":"druid"
+ },
+ {
+  "name_talent":"Crusader's Might",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=196926\/crusaders-might",
+  "classe_talent_name":"paladin"
+ },
+ {
+  "name_talent":"Internal Bleeding",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=154904\/internal-bleeding",
+  "classe_talent_name":"rogue"
+ },
+ {
+  "name_talent":"Grimoire: Felguard",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=111898\/grimoire-felguard",
+  "classe_talent_name":"warlock"
+ },
+ {
+  "name_talent":"Selfless Healer",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=85804\/selfless-healer",
+  "classe_talent_name":"paladin"
+ },
+ {
+  "name_talent":"Healing Hands",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=326734\/healing-hands",
+  "classe_talent_name":"paladin"
+ },
+ {
+  "name_talent":"Chrono Shift",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=235711\/chrono-shift",
+  "classe_talent_name":"mage"
+ },
+ {
+  "name_talent":"Mind Bomb",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=205369\/mind-bomb",
+  "classe_talent_name":"priest"
+ },
+ {
+  "name_talent":"Killer Cobra",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=199532\/killer-cobra",
+  "classe_talent_name":"hunter"
+ },
+ {
+  "name_talent":"Writhe in Agony",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=196102\/writhe-in-agony",
+  "classe_talent_name":"warlock"
+ },
+ {
+  "name_talent":"High Tide",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=157154\/high-tide",
+  "classe_talent_name":"shaman"
+ },
+ {
+  "name_talent":"Overpowered",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=155147\/overpowered",
+  "classe_talent_name":"mage"
+ },
+ {
+  "name_talent":"Mighty Bash",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=5211\/mighty-bash",
+  "classe_talent_name":"druid"
+ },
+ {
+  "name_talent":"Bob and Weave",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=280515\/bob-and-weave",
+  "classe_talent_name":"monk"
+ },
+ {
+  "name_talent":"Time Anomaly",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=210805\/time-anomaly",
+  "classe_talent_name":"mage"
+ },
+ {
+  "name_talent":"Holy Prism",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=114165\/holy-prism",
+  "classe_talent_name":"paladin"
+ },
+ {
+  "name_talent":"Glimmer of Light",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=325966\/glimmer-of-light",
+  "classe_talent_name":"paladin"
+ },
+ {
+  "name_talent":"In For The Kill",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=248621\/in-for-the-kill",
+  "classe_talent_name":"warrior"
+ },
+ {
+  "name_talent":"Consecrated Ground",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=204054\/consecrated-ground",
+  "classe_talent_name":"paladin"
+ },
+ {
+  "name_talent":"Mindbender",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=200174\/mindbender",
+  "classe_talent_name":"priest"
+ },
+ {
+  "name_talent":"Cold Heart",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=281208\/cold-heart",
+  "classe_talent_name":"death-knight"
+ },
+ {
+  "name_talent":"Wildfire Infusion",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=271014\/wildfire-infusion",
+  "classe_talent_name":"hunter"
+ },
+ {
+  "name_talent":"Birds of Prey",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=260331\/birds-of-prey",
+  "classe_talent_name":"hunter"
+ },
+ {
+  "name_talent":"Chakrams",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=259391\/chakrams",
+  "classe_talent_name":"hunter"
+ },
+ {
+  "name_talent":"Elemental Assault",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=210853\/elemental-assault",
+  "classe_talent_name":"shaman"
+ },
+ {
+  "name_talent":"Trail of Light",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=200128\/trail-of-light",
+  "classe_talent_name":"priest"
+ },
+ {
+  "name_talent":"Quick Draw",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=196938\/quick-draw",
+  "classe_talent_name":"rogue"
+ },
+ {
+  "name_talent":"Comet Storm",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=153595\/comet-storm",
+  "classe_talent_name":"mage"
+ },
+ {
+  "name_talent":"Elusiveness",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=79008\/elusiveness",
+  "classe_talent_name":"rogue"
+ },
+ {
+  "name_talent":"Living Bomb",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=44457\/living-bomb",
+  "classe_talent_name":"mage"
+ },
+ {
+  "name_talent":"Hungering Void",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=345218\/hungering-void",
+  "classe_talent_name":"priest"
+ },
+ {
+  "name_talent":"Demonic",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=321453\/demonic",
+  "classe_talent_name":"demon-hunter"
+ },
+ {
+  "name_talent":"Echoing Shock",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=320125\/echoing-shock",
+  "classe_talent_name":"shaman"
+ },
+ {
+  "name_talent":"Obliteration",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=281238\/obliteration",
+  "classe_talent_name":"death-knight"
+ },
+ {
+  "name_talent":"Clawing Shadows",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=207311\/clawing-shadows",
+  "classe_talent_name":"death-knight"
+ },
+ {
+  "name_talent":"Demonic Calling",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=205145\/demonic-calling",
+  "classe_talent_name":"warlock"
+ },
+ {
+  "name_talent":"Rend and Tear",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=204053\/rend-and-tear",
+  "classe_talent_name":"druid"
+ },
+ {
+  "name_talent":"High Tolerance",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=196737\/high-tolerance",
+  "classe_talent_name":"monk"
+ },
+ {
+  "name_talent":"Grip of the Dead",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=273952\/grip-of-the-dead",
+  "classe_talent_name":"death-knight"
+ },
+ {
+  "name_talent":"Flame Patch",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=205037\/flame-patch",
+  "classe_talent_name":"mage"
+ },
+ {
+  "name_talent":"Sudden Death",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=280721\/sudden-death",
+  "classe_talent_name":"warrior"
+ },
+ {
+  "name_talent":"Crackling Thunder",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=203201\/crackling-thunder",
+  "classe_talent_name":"warrior"
+ },
+ {
+  "name_talent":"Stampede",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=201430\/stampede",
+  "classe_talent_name":"hunter"
+ },
+ {
+  "name_talent":"Sow the Seeds",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=196226\/sow-the-seeds",
+  "classe_talent_name":"warlock"
+ },
+ {
+  "name_talent":"Fortress of the Mind",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=193195\/fortress-of-the-mind",
+  "classe_talent_name":"priest"
+ },
+ {
+  "name_talent":"Lunar Inspiration",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=155580\/lunar-inspiration",
+  "classe_talent_name":"druid"
+ },
+ {
+  "name_talent":"Asphyxiate",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=108194\/asphyxiate",
+  "classe_talent_name":"death-knight"
+ },
+ {
+  "name_talent":"Body and Soul",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=64129\/body-and-soul",
+  "classe_talent_name":"priest"
+ },
+ {
+  "name_talent":"Premeditation",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=343160\/premeditation",
+  "classe_talent_name":"rogue"
+ },
+ {
+  "name_talent":"Soul Strike",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=264057\/soul-strike",
+  "classe_talent_name":"warlock"
+ },
+ {
+  "name_talent":"Exsanguinate",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=200806\/exsanguinate",
+  "classe_talent_name":"rogue"
+ },
+ {
+  "name_talent":"Second Wind",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=29838\/second-wind",
+  "classe_talent_name":"warrior"
+ },
+ {
+  "name_talent":"Vigor",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=14983\/vigor",
+  "classe_talent_name":"rogue"
+ },
+ {
+  "name_talent":"Streamline",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=260367\/streamline",
+  "classe_talent_name":"hunter"
+ },
+ {
+  "name_talent":"Fel Barrage",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=258925\/fel-barrage",
+  "classe_talent_name":"demon-hunter"
+ },
+ {
+  "name_talent":"Heavy Repercussions",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=203177\/heavy-repercussions",
+  "classe_talent_name":"warrior"
+ },
+ {
+  "name_talent":"Warrior of Elune",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=202425\/warrior-of-elune",
+  "classe_talent_name":"druid"
+ },
+ {
+  "name_talent":"Sundering",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=197214\/sundering",
+  "classe_talent_name":"shaman"
+ },
+ {
+  "name_talent":"Graceful Spirit",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=192088\/graceful-spirit",
+  "classe_talent_name":"shaman"
+ },
+ {
+  "name_talent":"Incanter's Flow",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=1463\/incanters-flow",
+  "classe_talent_name":"mage"
+ },
+ {
+  "name_talent":"Doom",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=603\/doom",
+  "classe_talent_name":"warlock"
+ },
+ {
+  "name_talent":"Heartbreaker",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=221536\/heartbreaker",
+  "classe_talent_name":"death-knight"
+ },
+ {
+  "name_talent":"Reckless Abandon",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=202751\/reckless-abandon",
+  "classe_talent_name":"warrior"
+ },
+ {
+  "name_talent":"Natural Mending",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=270581\/natural-mending",
+  "classe_talent_name":"hunter"
+ },
+ {
+  "name_talent":"Tip of the Spear",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=260285\/tip-of-the-spear",
+  "classe_talent_name":"hunter"
+ },
+ {
+  "name_talent":"Mongoose Bite",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=259387\/mongoose-bite",
+  "classe_talent_name":"hunter"
+ },
+ {
+  "name_talent":"Blood Tap",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=221699\/blood-tap",
+  "classe_talent_name":"death-knight"
+ },
+ {
+  "name_talent":"Shadow Crash",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=205385\/shadow-crash",
+  "classe_talent_name":"priest"
+ },
+ {
+  "name_talent":"Sigil of Chains",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=202138\/sigil-of-chains",
+  "classe_talent_name":"demon-hunter"
+ },
+ {
+  "name_talent":"Ice Nova",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=157997\/ice-nova",
+  "classe_talent_name":"mage"
+ },
+ {
+  "name_talent":"Soul Reaper",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=343294\/soul-reaper",
+  "classe_talent_name":"death-knight"
+ },
+ {
+  "name_talent":"Shuriken Tornado",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=277925\/shuriken-tornado",
+  "classe_talent_name":"rogue"
+ },
+ {
+  "name_talent":"Flashover",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=267115\/flashover",
+  "classe_talent_name":"warlock"
+ },
+ {
+  "name_talent":"Thrill of the Hunt",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=257944\/thrill-of-the-hunt",
+  "classe_talent_name":"hunter"
+ },
+ {
+  "name_talent":"Enveloping Shadows",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=238104\/enveloping-shadows",
+  "classe_talent_name":"rogue"
+ },
+ {
+  "name_talent":"Blade of Wrath",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=231832\/blade-of-wrath",
+  "classe_talent_name":"paladin"
+ },
+ {
+  "name_talent":"Ancestral Vigor",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=207401\/ancestral-vigor",
+  "classe_talent_name":"shaman"
+ },
+ {
+  "name_talent":"Will of the Necropolis",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=206967\/will-of-the-necropolis",
+  "classe_talent_name":"death-knight"
+ },
+ {
+  "name_talent":"Guardian Angel",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=200209\/guardian-angel",
+  "classe_talent_name":"priest"
+ },
+ {
+  "name_talent":"Torrent",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=200072\/torrent",
+  "classe_talent_name":"shaman"
+ },
+ {
+  "name_talent":"Master of Shadows",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=196976\/master-of-shadows",
+  "classe_talent_name":"rogue"
+ },
+ {
+  "name_talent":"Halo",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=120517\/halo",
+  "classe_talent_name":"priest"
+ },
+ {
+  "name_talent":"Twin Moons",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=279620\/twin-moons",
+  "classe_talent_name":"druid"
+ },
+ {
+  "name_talent":"Army of the Damned",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=276837\/army-of-the-damned",
+  "classe_talent_name":"death-knight"
+ },
+ {
+  "name_talent":"New Moon",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=274281\/new-moon",
+  "classe_talent_name":"druid"
+ },
+ {
+  "name_talent":"Demonic Strength",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=267171\/demonic-strength",
+  "classe_talent_name":"warlock"
+ },
+ {
+  "name_talent":"Phantom Singularity",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=205179\/phantom-singularity",
+  "classe_talent_name":"warlock"
+ },
+ {
+  "name_talent":"Ray of Frost",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=205021\/ray-of-frost",
+  "classe_talent_name":"mage"
+ },
+ {
+  "name_talent":"Pulverize",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=80313\/pulverize",
+  "classe_talent_name":"druid"
+ },
+ {
+  "name_talent":"Power Siphon",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=264130\/power-siphon",
+  "classe_talent_name":"warlock"
+ },
+ {
+  "name_talent":"Righteous Protector",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=204074\/righteous-protector",
+  "classe_talent_name":"paladin"
+ },
+ {
+  "name_talent":"Renewal",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=108238\/renewal",
+  "classe_talent_name":"druid"
+ },
+ {
+  "name_talent":"Horn of Winter",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=57330\/horn-of-winter",
+  "classe_talent_name":"death-knight"
+ },
+ {
+  "name_talent":"Resonance",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=205028\/resonance",
+  "classe_talent_name":"mage"
+ },
+ {
+  "name_talent":"Earthwarden",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=203974\/earthwarden",
+  "classe_talent_name":"druid"
+ },
+ {
+  "name_talent":"Ancestral Guidance",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=108281\/ancestral-guidance",
+  "classe_talent_name":"shaman"
+ },
+ {
+  "name_talent":"Soul Fire",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=6353\/soul-fire",
+  "classe_talent_name":"warlock"
+ },
+ {
+  "name_talent":"Bloodshed",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=321530\/bloodshed",
+  "classe_talent_name":"hunter"
+ },
+ {
+  "name_talent":"Skullsplitter",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=260643\/skullsplitter",
+  "classe_talent_name":"warrior"
+ },
+ {
+  "name_talent":"Icefury",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=210714\/icefury",
+  "classe_talent_name":"shaman"
+ },
+ {
+  "name_talent":"Flame On",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=205029\/flame-on",
+  "classe_talent_name":"mage"
+ },
+ {
+  "name_talent":"Trailblazer",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=199921\/trailblazer",
+  "classe_talent_name":"hunter"
+ },
+ {
+  "name_talent":"Chain Reaction",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=278309\/chain-reaction",
+  "classe_talent_name":"mage"
+ },
+ {
+  "name_talent":"Trail of Ruin",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=258881\/trail-of-ruin",
+  "classe_talent_name":"demon-hunter"
+ },
+ {
+  "name_talent":"Galactic Guardian",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=203964\/galactic-guardian",
+  "classe_talent_name":"druid"
+ },
+ {
+  "name_talent":"First Avenger",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=203776\/first-avenger",
+  "classe_talent_name":"paladin"
+ },
+ {
+  "name_talent":"Icy Talons",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=194878\/icy-talons",
+  "classe_talent_name":"death-knight"
+ },
+ {
+  "name_talent":"Elaborate Planning",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=193640\/elaborate-planning",
+  "classe_talent_name":"rogue"
+ },
+ {
+  "name_talent":"Blast Wave",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=157981\/blast-wave",
+  "classe_talent_name":"mage"
+ },
+ {
+  "name_talent":"Inner Demons",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=267216\/inner-demons",
+  "classe_talent_name":"warlock"
+ },
+ {
+  "name_talent":"Master Assassin",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=255989\/master-assassin",
+  "classe_talent_name":"rogue"
+ },
+ {
+  "name_talent":"Ascendance",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=114051\/ascendance",
+  "classe_talent_name":"shaman"
+ },
+ {
+  "name_talent":"Shadow Focus",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=108209\/shadow-focus",
+  "classe_talent_name":"rogue"
+ },
+ {
+  "name_talent":"Shadow Covenant",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=314867\/shadow-covenant",
+  "classe_talent_name":"priest"
+ },
+ {
+  "name_talent":"Fresh Meat",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=215568\/fresh-meat",
+  "classe_talent_name":"warrior"
+ },
+ {
+  "name_talent":"Lonely Winter",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=205024\/lonely-winter",
+  "classe_talent_name":"mage"
+ },
+ {
+  "name_talent":"Lock and Load",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=194595\/lock-and-load",
+  "classe_talent_name":"hunter"
+ },
+ {
+  "name_talent":"Unbreakable Spirit",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=114154\/unbreakable-spirit",
+  "classe_talent_name":"paladin"
+ },
+ {
+  "name_talent":"Double Time",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=103827\/double-time",
+  "classe_talent_name":"warrior"
+ },
+ {
+  "name_talent":"Demon Skin",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=219272\/demon-skin",
+  "classe_talent_name":"warlock"
+ },
+ {
+  "name_talent":"First Blood",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=206416\/first-blood",
+  "classe_talent_name":"demon-hunter"
+ },
+ {
+  "name_talent":"Bloodworms",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=195679\/bloodworms",
+  "classe_talent_name":"death-knight"
+ },
+ {
+  "name_talent":"Defile",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=152280\/defile",
+  "classe_talent_name":"death-knight"
+ },
+ {
+  "name_talent":"Surrender to Madness",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=319952\/surrender-to-madness",
+  "classe_talent_name":"priest"
+ },
+ {
+  "name_talent":"Rising Mist",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=274909\/rising-mist",
+  "classe_talent_name":"monk"
+ },
+ {
+  "name_talent":"Cycle of Hatred",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=258887\/cycle-of-hatred",
+  "classe_talent_name":"demon-hunter"
+ },
+ {
+  "name_talent":"Butchery",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=212436\/butchery",
+  "classe_talent_name":"hunter"
+ },
+ {
+  "name_talent":"Fel Eruption",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=211881\/fel-eruption",
+  "classe_talent_name":"demon-hunter"
+ },
+ {
+  "name_talent":"Agonizing Flames",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=207548\/agonizing-flames",
+  "classe_talent_name":"demon-hunter"
+ },
+ {
+  "name_talent":"Restoration Affinity",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=197492\/restoration-affinity",
+  "classe_talent_name":"druid"
+ },
+ {
+  "name_talent":"Spirit Wolf",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=260878\/spirit-wolf",
+  "classe_talent_name":"shaman"
+ },
+ {
+  "name_talent":"Misery",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=238558\/misery",
+  "classe_talent_name":"priest"
+ },
+ {
+  "name_talent":"Felblade",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=232893\/felblade",
+  "classe_talent_name":"demon-hunter"
+ },
+ {
+  "name_talent":"Shining Force",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=204263\/shining-force",
+  "classe_talent_name":"priest"
+ },
+ {
+  "name_talent":"Hot Hand",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=201900\/hot-hand",
+  "classe_talent_name":"shaman"
+ },
+ {
+  "name_talent":"Apotheosis",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=200183\/apotheosis",
+  "classe_talent_name":"priest"
+ },
+ {
+  "name_talent":"Wellspring",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=197995\/wellspring",
+  "classe_talent_name":"shaman"
+ },
+ {
+  "name_talent":"Master Marksman",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=260309\/master-marksman",
+  "classe_talent_name":"hunter"
+ },
+ {
+  "name_talent":"Primal Wrath",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=285381\/primal-wrath",
+  "classe_talent_name":"druid"
+ },
+ {
+  "name_talent":"Unbound Chaos",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=347461\/unbound-chaos",
+  "classe_talent_name":"demon-hunter"
+ },
+ {
+  "name_talent":"Vile Taint",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=278350\/vile-taint",
+  "classe_talent_name":"warlock"
+ },
+ {
+  "name_talent":"Feral Frenzy",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=274837\/feral-frenzy",
+  "classe_talent_name":"druid"
+ },
+ {
+  "name_talent":"Awakening",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=248033\/awakening",
+  "classe_talent_name":"paladin"
+ },
+ {
+  "name_talent":"Brutal Slash",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=202028\/brutal-slash",
+  "classe_talent_name":"druid"
+ },
+ {
+  "name_talent":"Channel Demonfire",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=196447\/channel-demonfire",
+  "classe_talent_name":"warlock"
+ },
+ {
+  "name_talent":"Alacrity",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=193539\/alacrity",
+  "classe_talent_name":"rogue"
+ },
+ {
+  "name_talent":"Unholy Blight",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=115989\/unholy-blight",
+  "classe_talent_name":"death-knight"
+ },
+ {
+  "name_talent":"Volley",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=260243\/volley",
+  "classe_talent_name":"hunter"
+ },
+ {
+  "name_talent":"Eye of the Tiger",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=196607\/eye-of-the-tiger",
+  "classe_talent_name":"monk"
+ },
+ {
+  "name_talent":"Ascension",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=115396\/ascension",
+  "classe_talent_name":"monk"
+ },
+ {
+  "name_talent":"Blessed Hammer",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=204019\/blessed-hammer",
+  "classe_talent_name":"paladin"
+ },
+ {
+  "name_talent":"Demon Blades",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=203555\/demon-blades",
+  "classe_talent_name":"demon-hunter"
+ },
+ {
+  "name_talent":"Steel Trap",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=162488\/steel-trap",
+  "classe_talent_name":"hunter"
+ },
+ {
+  "name_talent":"Thermal Void",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=155149\/thermal-void",
+  "classe_talent_name":"mage"
+ },
+ {
+  "name_talent":"Master of the Glaive",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=203556\/master-of-the-glaive",
+  "classe_talent_name":"demon-hunter"
+ },
+ {
+  "name_talent":"Sabertooth",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=202031\/sabertooth",
+  "classe_talent_name":"druid"
+ },
+ {
+  "name_talent":"Bonestorm",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=194844\/bonestorm",
+  "classe_talent_name":"death-knight"
+ },
+ {
+  "name_talent":"Elemental Blast",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=117014\/elemental-blast",
+  "classe_talent_name":"shaman"
+ },
+ {
+  "name_talent":"Consumption",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=274156\/consumption",
+  "classe_talent_name":"death-knight"
+ },
+ {
+  "name_talent":"Blade Rush",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=271877\/blade-rush",
+  "classe_talent_name":"rogue"
+ },
+ {
+  "name_talent":"Light's Hammer",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=114158\/lights-hammer",
+  "classe_talent_name":"paladin"
+ },
+ {
+  "name_talent":"Psychic Horror",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=64044\/psychic-horror",
+  "classe_talent_name":"priest"
+ },
+ {
+  "name_talent":"Unholy Assault",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=207289\/unholy-assault",
+  "classe_talent_name":"death-knight"
+ },
+ {
+  "name_talent":"Song of Chi-Ji",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=198898\/song-of-chi-ji",
+  "classe_talent_name":"monk"
+ },
+ {
+  "name_talent":"Power Word: Solace",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=129250\/power-word-solace",
+  "classe_talent_name":"priest"
+ },
+ {
+  "name_talent":"Purgatory",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=114556\/purgatory",
+  "classe_talent_name":"death-knight"
+ },
+ {
+  "name_talent":"Special Delivery",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=196730\/special-delivery",
+  "classe_talent_name":"monk"
+ },
+ {
+  "name_talent":"Freezing Rain",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=270233\/freezing-rain",
+  "classe_talent_name":"mage"
+ },
+ {
+  "name_talent":"Void Torrent",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=263165\/void-torrent",
+  "classe_talent_name":"priest"
+ },
+ {
+  "name_talent":"Steady Focus",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=193533\/steady-focus",
+  "classe_talent_name":"hunter"
+ },
+ {
+  "name_talent":"Beacon of Faith",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=156910\/beacon-of-faith",
+  "classe_talent_name":"paladin"
+ },
+ {
+  "name_talent":"Invoke Chi-Ji, the Red Crane",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=325197\/invoke-chi-ji-the-red-crane",
+  "classe_talent_name":"monk"
+ },
+ {
+  "name_talent":"Glacial Spike",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=199786\/glacial-spike",
+  "classe_talent_name":"mage"
+ },
+ {
+  "name_talent":"Serenity",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=152173\/serenity",
+  "classe_talent_name":"monk"
+ },
+ {
+  "name_talent":"Marked for Death",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=137619\/marked-for-death",
+  "classe_talent_name":"rogue"
+ },
+ {
+  "name_talent":"Prey on the Weak",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=131511\/prey-on-the-weak",
+  "classe_talent_name":"rogue"
+ },
+ {
+  "name_talent":"Roaring Blaze",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=205184\/roaring-blaze",
+  "classe_talent_name":"warlock"
+ },
+ {
+  "name_talent":"Mass Entanglement",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=102359\/mass-entanglement",
+  "classe_talent_name":"druid"
+ },
+ {
+  "name_talent":"Killing Spree",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=51690\/killing-spree",
+  "classe_talent_name":"rogue"
+ },
+ {
+  "name_talent":"Summon Vilefiend",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=264119\/summon-vilefiend",
+  "classe_talent_name":"warlock"
+ },
+ {
+  "name_talent":"Bursting Sores",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=207264\/bursting-sores",
+  "classe_talent_name":"death-knight"
+ },
+ {
+  "name_talent":"Arcane Orb",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=153626\/arcane-orb",
+  "classe_talent_name":"mage"
+ },
+ {
+  "name_talent":"Dragon Roar",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=118000\/dragon-roar",
+  "classe_talent_name":"warrior"
+ },
+ {
+  "name_talent":"Grimoire of Sacrifice",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=108503\/grimoire-of-sacrifice",
+  "classe_talent_name":"warlock"
+ },
+ {
+  "name_talent":"Stellar Flare",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=202347\/stellar-flare",
+  "classe_talent_name":"druid"
+ },
+ {
+  "name_talent":"Drain Soul",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=198590\/drain-soul",
+  "classe_talent_name":"warlock"
+ },
+ {
+  "name_talent":"Glaive Tempest",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=342817\/glaive-tempest",
+  "classe_talent_name":"demon-hunter"
+ },
+ {
+  "name_talent":"Wild Charge",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=102401\/wild-charge",
+  "classe_talent_name":"druid"
+ },
+ {
+  "name_talent":"Tiger's Lust",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=116841\/tigers-lust",
+  "classe_talent_name":"monk"
+ },
+ {
+  "name_talent":"Ring of Frost",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=113724\/ring-of-frost",
+  "classe_talent_name":"mage"
+ },
+ {
+  "name_talent":"Divine Star",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=110744\/divine-star",
+  "classe_talent_name":"priest"
+ },
+ {
+  "name_talent":"Cenarion Ward",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=102351\/cenarion-ward",
+  "classe_talent_name":"druid"
+ },
+ {
+  "name_talent":"Secret Technique",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=280719\/secret-technique",
+  "classe_talent_name":"rogue"
+ },
+ {
+  "name_talent":"Dampen Harm",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=122278\/dampen-harm",
+  "classe_talent_name":"monk"
+ },
+ {
+  "name_talent":"Dreadnaught",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=262150\/dreadnaught",
+  "classe_talent_name":"warrior"
+ },
+ {
+  "name_talent":"Judgment of Light",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=183778\/judgment-of-light",
+  "classe_talent_name":"paladin"
+ },
+ {
+  "name_talent":"Aspect of the Beast",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=191384\/aspect-of-the-beast",
+  "classe_talent_name":"hunter"
+ },
+ {
+  "name_talent":"A Murder of Crows",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=131894\/a-murder-of-crows",
+  "classe_talent_name":"hunter"
+ },
+ {
+  "name_talent":"Rushing Jade Wind",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=116847\/rushing-jade-wind",
+  "classe_talent_name":"monk"
+ },
+ {
+  "name_talent":"Essence Break",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=258860\/essence-break",
+  "classe_talent_name":"demon-hunter"
+ },
+ {
+  "name_talent":"Holy Avenger",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=105809\/holy-avenger",
+  "classe_talent_name":"paladin"
+ },
+ {
+  "name_talent":"Nature's Balance",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=202430\/natures-balance",
+  "classe_talent_name":"druid"
+ },
+ {
+  "name_talent":"Nether Portal",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=267217\/nether-portal",
+  "classe_talent_name":"warlock"
+ },
+ {
+  "name_talent":"Ice Floes",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=108839\/ice-floes",
+  "classe_talent_name":"mage"
+ },
+ {
+  "name_talent":"Evangelism",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=246287\/evangelism",
+  "classe_talent_name":"priest"
+ },
+ {
+  "name_talent":"Focus Magic",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=321358\/focus-magic",
+  "classe_talent_name":"mage"
+ },
+ {
+  "name_talent":"Divine Purpose",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=223817\/divine-purpose",
+  "classe_talent_name":"paladin"
+ },
+ {
+  "name_talent":"Breath of Sindragosa",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=152279\/breath-of-sindragosa",
+  "classe_talent_name":"death-knight"
+ },
+ {
+  "name_talent":"Shimmer",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=212653\/shimmer",
+  "classe_talent_name":"mage"
+ },
+ {
+  "name_talent":"Dreadblades",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=343142\/dreadblades",
+  "classe_talent_name":"rogue"
+ },
+ {
+  "name_talent":"Wind Rush Totem",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=192077\/wind-rush-totem",
+  "classe_talent_name":"shaman"
+ },
+ {
+  "name_talent":"Dark Pact",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=108416\/dark-pact",
+  "classe_talent_name":"warlock"
+ },
+ {
+  "name_talent":"Storm Bolt",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=107570\/storm-bolt",
+  "classe_talent_name":"warrior"
+ },
+ {
+  "name_talent":"Dark Soul: Misery",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=113860\/dark-soul-misery",
+  "classe_talent_name":"warlock"
+ },
+ {
+  "name_talent":"Blinding Light",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=115750\/blinding-light",
+  "classe_talent_name":"paladin"
+ },
+ {
+  "name_talent":"Pyroclasm",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=269650\/pyroclasm",
+  "classe_talent_name":"mage"
+ },
+ {
+  "name_talent":"Demonic Consumption",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=267215\/demonic-consumption",
+  "classe_talent_name":"warlock"
+ },
+ {
+  "name_talent":"Arcane Echo",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=342231\/arcane-echo",
+  "classe_talent_name":"mage"
+ },
+ {
+  "name_talent":"Blessing of Spellwarding",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=204018\/blessing-of-spellwarding",
+  "classe_talent_name":"paladin"
+ },
+ {
+  "name_talent":"Netherwalk",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=196555\/netherwalk",
+  "classe_talent_name":"demon-hunter"
+ },
+ {
+  "name_talent":"Defensive Stance",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=197690\/defensive-stance",
+  "classe_talent_name":"warrior"
+ },
+ {
+  "name_talent":"Contrition",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=197419\/contrition",
+  "classe_talent_name":"priest"
+ },
+ {
+  "name_talent":"Searing Nightmare",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=341385\/searing-nightmare",
+  "classe_talent_name":"priest"
+ },
+ {
+  "name_talent":"Cleave",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=845\/cleave",
+  "classe_talent_name":"warrior"
+ },
+ {
+  "name_talent":"Momentum",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=206476\/momentum",
+  "classe_talent_name":"demon-hunter"
+ },
+ {
+  "name_talent":"Rend",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=772\/rend",
+  "classe_talent_name":"warrior"
+ },
+ {
+  "name_talent":"Impending Victory",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=202168\/impending-victory",
+  "classe_talent_name":"warrior"
+ },
+ {
+  "name_talent":"Avatar",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=107574\/avatar",
+  "classe_talent_name":"warrior"
+ },
+ {
+  "name_talent":"Holy Shield",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=152261\/holy-shield",
+  "classe_talent_name":"paladin"
+ },
+ {
+  "name_talent":"Incarnation: Tree of Life",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=33891\/incarnation-tree-of-life",
+  "classe_talent_name":"druid"
+ },
+ {
+  "name_talent":"Spirit Shell",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=109964\/spirit-shell",
+  "classe_talent_name":"priest"
+ },
+ {
+  "name_talent":"Incarnation: Guardian of Ursoc",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=102558\/incarnation-guardian-of-ursoc",
+  "classe_talent_name":"druid"
+ },
+ {
+  "name_talent":"Final Reckoning",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=343721\/final-reckoning",
+  "classe_talent_name":"paladin"
+ },
+ {
+  "name_talent":"Ancestral Protection Totem",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=207399\/ancestral-protection-totem",
+  "classe_talent_name":"shaman"
+ },
+ {
+  "name_talent":"Animal Companion",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=267116\/animal-companion",
+  "classe_talent_name":"hunter"
+ },
+ {
+  "name_talent":"Incarnation: Chosen of Elune",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=102560\/incarnation-chosen-of-elune",
+  "classe_talent_name":"druid"
+ },
+ {
+  "name_talent":"Holy Word: Salvation",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=265202\/holy-word-salvation",
+  "classe_talent_name":"priest"
+ },
+ {
+  "name_talent":"Dark Soul: Instability",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=113858\/dark-soul-instability",
+  "classe_talent_name":"warlock"
+ },
+ {
+  "name_talent":"Bladestorm",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=46924\/bladestorm",
+  "classe_talent_name":"warrior"
+ },
+ {
+  "name_talent":"Focused Thunder",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=197895\/focused-thunder",
+  "classe_talent_name":"monk"
+ },
+ {
+  "name_talent":"Loaded Dice",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=256170\/loaded-dice",
+  "classe_talent_name":"rogue"
+ },
+ {
+  "name_talent":"Cultivation",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=200390\/cultivation",
+  "classe_talent_name":"druid"
+ },
+ {
+  "name_talent":"Liquid Magma Totem",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=192222\/liquid-magma-totem",
+  "classe_talent_name":"shaman"
+ },
+ {
+  "name_talent":"Rapid Decomposition",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=194662\/rapid-decomposition",
+  "classe_talent_name":"death-knight"
+ },
+ {
+  "name_talent":"Pestilence",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=277234\/pestilence",
+  "classe_talent_name":"death-knight"
+ },
+ {
+  "name_talent":"Inexorable Assault",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=253593\/inexorable-assault",
+  "classe_talent_name":"death-knight"
+ },
+ {
+  "name_talent":"Earthen Spike",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=188089\/earthen-spike",
+  "classe_talent_name":"shaman"
+ },
+ {
+  "name_talent":"All Will Serve",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=194916\/all-will-serve",
+  "classe_talent_name":"death-knight"
+ },
+ {
+  "name_talent":"Frozen Touch",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=205030\/frozen-touch",
+  "classe_talent_name":"mage"
+ },
+ {
+  "name_talent":"Gathering Storm",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=194912\/gathering-storm",
+  "classe_talent_name":"death-knight"
+ },
+ {
+  "name_talent":"Tiger Dash",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=252216\/tiger-dash",
+  "classe_talent_name":"druid"
+ },
+ {
+  "name_talent":"Acrobatic Strikes",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=196924\/acrobatic-strikes",
+  "classe_talent_name":"rogue"
+ },
+ {
+  "name_talent":"Eradication",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=196412\/eradication",
+  "classe_talent_name":"warlock"
+ },
+ {
+  "name_talent":"Unlimited Power",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=260895\/unlimited-power",
+  "classe_talent_name":"shaman"
+ },
+ {
+  "name_talent":"Mist Wrap",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=197900\/mist-wrap",
+  "classe_talent_name":"monk"
+ },
+ {
+  "name_talent":"Earthgrab Totem",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=51485\/earthgrab-totem",
+  "classe_talent_name":"shaman"
+ },
+ {
+  "name_talent":"Gloomblade",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=200758\/gloomblade",
+  "classe_talent_name":"rogue"
+ },
+ {
+  "name_talent":"Master Poisoner",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=196864\/master-poisoner",
+  "classe_talent_name":"rogue"
+ },
+ {
+  "name_talent":"Earthen Rage",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=170374\/earthen-rage",
+  "classe_talent_name":"shaman"
+ },
+ {
+  "name_talent":"Nature's Guardian",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=30884\/natures-guardian",
+  "classe_talent_name":"shaman"
+ },
+ {
+  "name_talent":"Heart of the Wild",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=319454\/heart-of-the-wild",
+  "classe_talent_name":"druid"
+ },
+ {
+  "name_talent":"Feral Lunge",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=196884\/feral-lunge",
+  "classe_talent_name":"shaman"
+ },
+ {
+  "name_talent":"Dance of Chi-Ji",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=325201\/dance-of-chi-ji",
+  "classe_talent_name":"monk"
+ },
+ {
+  "name_talent":"Poison Bomb",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=255544\/poison-bomb",
+  "classe_talent_name":"rogue"
+ },
+ {
+  "name_talent":"Chi Torpedo",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=115008\/chi-torpedo",
+  "classe_talent_name":"monk"
+ },
+ {
+  "name_talent":"Master of the Elements",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=16166\/master-of-the-elements",
+  "classe_talent_name":"shaman"
+ },
+ {
+  "name_talent":"Warbreaker",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=262161\/warbreaker",
+  "classe_talent_name":"warrior"
+ },
+ {
+  "name_talent":"Amplification",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=236628\/amplification",
+  "classe_talent_name":"mage"
+ },
+ {
+  "name_talent":"Savage Roar",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=52610\/savage-roar",
+  "classe_talent_name":"druid"
+ },
+ {
+  "name_talent":"Sins of the Many",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=280391\/sins-of-the-many",
+  "classe_talent_name":"priest"
+ },
+ {
+  "name_talent":"Blooddrinker",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=206931\/blooddrinker",
+  "classe_talent_name":"death-knight"
+ },
+ {
+  "name_talent":"Meteor",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=153561\/meteor",
+  "classe_talent_name":"mage"
+ },
+ {
+  "name_talent":"Dire Beast",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=120679\/dire-beast",
+  "classe_talent_name":"hunter"
+ },
+ {
+  "name_talent":"Shadow Embrace",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=32388\/shadow-embrace",
+  "classe_talent_name":"warlock"
+ },
+ {
+  "name_talent":"Fist of Justice",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=234299\/fist-of-justice",
+  "classe_talent_name":"paladin"
+ },
+ {
+  "name_talent":"Avenging Crusader",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=216331\/avenging-crusader",
+  "classe_talent_name":"paladin"
+ },
+ {
+  "name_talent":"Beacon of Virtue",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=200025\/beacon-of-virtue",
+  "classe_talent_name":"paladin"
+ },
+ {
+  "name_talent":"Abundance",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=207383\/abundance",
+  "classe_talent_name":"druid"
+ },
+ {
+  "name_talent":"Burning Rush",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=111400\/burning-rush",
+  "classe_talent_name":"warlock"
+ },
+ {
+  "name_talent":"Arcane Familiar",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=205022\/arcane-familiar",
+  "classe_talent_name":"mage"
+ },
+ {
+  "name_talent":"Binding Shot",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=109248\/binding-shot",
+  "classe_talent_name":"hunter"
+ },
+ {
+  "name_talent":"Execution Sentence",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=343527\/execution-sentence",
+  "classe_talent_name":"paladin"
+ },
+ {
+  "name_talent":"Posthaste",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=109215\/posthaste",
+  "classe_talent_name":"hunter"
+ },
+ {
+  "name_talent":"Summon Jade Serpent Statue",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=115313\/summon-jade-serpent-statue",
+  "classe_talent_name":"monk"
+ },
+ {
+  "name_talent":"Cheat Death",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=31230\/cheat-death",
+  "classe_talent_name":"rogue"
+ },
+ {
+  "name_talent":"Angelic Feather",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=121536\/angelic-feather",
+  "classe_talent_name":"priest"
+ },
+ {
+  "name_talent":"Psychic Link",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=199484\/psychic-link",
+  "classe_talent_name":"priest"
+ },
+ {
+  "name_talent":"Elemental Spirits",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=262624\/elemental-spirits",
+  "classe_talent_name":"shaman"
+ },
+ {
+  "name_talent":"Spring Blossoms",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=207385\/spring-blossoms",
+  "classe_talent_name":"druid"
+ },
+ {
+  "name_talent":"Summon Gargoyle",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=49206\/summon-gargoyle",
+  "classe_talent_name":"death-knight"
+ },
+ {
+  "name_talent":"Earth Shield",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=974\/earth-shield",
+  "classe_talent_name":"shaman"
+ },
+ {
+  "name_talent":"Careful Aim",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=260228\/careful-aim",
+  "classe_talent_name":"hunter"
+ },
+ {
+  "name_talent":"Last Resort",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=209258\/last-resort",
+  "classe_talent_name":"demon-hunter"
+ },
+ {
+  "name_talent":"Stellar Drift",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=202354\/stellar-drift",
+  "classe_talent_name":"druid"
+ },
+ {
+  "name_talent":"Frostscythe",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=207230\/frostscythe",
+  "classe_talent_name":"death-knight"
+ },
+ {
+  "name_talent":"Schism",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=214621\/schism",
+  "classe_talent_name":"priest"
+ },
+ {
+  "name_talent":"Cataclysm",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=152108\/cataclysm",
+  "classe_talent_name":"warlock"
+ },
+ {
+  "name_talent":"Double Tap",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=260402\/double-tap",
+  "classe_talent_name":"hunter"
+ },
+ {
+  "name_talent":"Ghostly Strike",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=196937\/ghostly-strike",
+  "classe_talent_name":"rogue"
+ },
+ {
+  "name_talent":"Bestow Faith",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=223306\/bestow-faith",
+  "classe_talent_name":"paladin"
+ },
+ {
+  "name_talent":"Purge the Wicked",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=204197\/purge-the-wicked",
+  "classe_talent_name":"priest"
+ },
+ {
+  "name_talent":"Chi Wave",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=115098\/chi-wave",
+  "classe_talent_name":"monk"
+ },
+ {
+  "name_talent":"Force of Nature",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=205636\/force-of-nature",
+  "classe_talent_name":"druid"
+ },
+ {
+  "name_talent":"Anger Management",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=152278\/anger-management",
+  "classe_talent_name":"warrior"
+ },
+ {
+  "name_talent":"Chi Burst",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=123986\/chi-burst",
+  "classe_talent_name":"monk"
+ },
+ {
+  "name_talent":"Crimson Tempest",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=121411\/crimson-tempest",
+  "classe_talent_name":"rogue"
+ },
+ {
+  "name_talent":"Earthen Wall Totem",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=198838\/earthen-wall-totem",
+  "classe_talent_name":"shaman"
+ },
+ {
+  "name_talent":"Bloodseeker",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=260248\/bloodseeker",
+  "classe_talent_name":"hunter"
+ },
+ {
+  "name_talent":"Spirit Bomb",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=247454\/spirit-bomb",
+  "classe_talent_name":"demon-hunter"
+ },
+ {
+  "name_talent":"Fist of the White Tiger",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=261947\/fist-of-the-white-tiger",
+  "classe_talent_name":"monk"
+ },
+ {
+  "name_talent":"Flourish",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=197721\/flourish",
+  "classe_talent_name":"druid"
+ },
+ {
+  "name_talent":"Auspicious Spirits",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=155271\/auspicious-spirits",
+  "classe_talent_name":"priest"
+ },
+ {
+  "name_talent":"Barrage",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=120360\/barrage",
+  "classe_talent_name":"hunter"
+ },
+ {
+  "name_talent":"Ring of Peace",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=116844\/ring-of-peace",
+  "classe_talent_name":"monk"
+ },
+ {
+  "name_talent":"Camouflage",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=199483\/camouflage",
+  "classe_talent_name":"hunter"
+ },
+ {
+  "name_talent":"Stomp",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=199530\/stomp",
+  "classe_talent_name":"hunter"
+ },
+ {
+  "name_talent":"Nightstalker",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=14062\/nightstalker",
+  "classe_talent_name":"rogue"
+ },
+ {
+  "name_talent":"Demonic Appetite",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=206478\/demonic-appetite",
+  "classe_talent_name":"demon-hunter"
+ },
+ {
+  "name_talent":"Explosive Shot",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=212431\/explosive-shot",
+  "classe_talent_name":"hunter"
+ },
+ {
+  "name_talent":"Wraith Walk",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=212552\/wraith-walk",
+  "classe_talent_name":"death-knight"
+ },
+ {
+  "name_talent":"Whirling Dragon Punch",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=152175\/whirling-dragon-punch",
+  "classe_talent_name":"monk"
+ },
+ {
+  "name_talent":"Mortal Coil",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=6789\/mortal-coil",
+  "classe_talent_name":"warlock"
+ },
+ {
+  "name_talent":"Seraphim",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=152262\/seraphim",
+  "classe_talent_name":"paladin"
+ },
+ {
+  "name_talent":"Into the Fray",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=202603\/into-the-fray",
+  "classe_talent_name":"warrior"
+ },
+ {
+  "name_talent":"Blind Fury",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=203550\/blind-fury",
+  "classe_talent_name":"demon-hunter"
+ },
+ {
+  "name_talent":"Primal Elementalist",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=117013\/primal-elementalist",
+  "classe_talent_name":"shaman"
+ },
+ {
+  "name_talent":"Rain of Chaos",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=266086\/rain-of-chaos",
+  "classe_talent_name":"warlock"
+ },
+ {
+  "name_talent":"Germination",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=155675\/germination",
+  "classe_talent_name":"druid"
+ },
+ {
+  "name_talent":"Hit Combo",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=196740\/hit-combo",
+  "classe_talent_name":"monk"
+ },
+ {
+  "name_talent":"Summon Black Ox Statue",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=115315\/summon-black-ox-statue",
+  "classe_talent_name":"monk"
+ },
+ {
+  "name_talent":"Subterfuge",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=108208\/subterfuge",
+  "classe_talent_name":"rogue"
+ },
+ {
+  "name_talent":"Cloudburst Totem",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=157153\/cloudburst-totem",
+  "classe_talent_name":"shaman"
+ },
+ {
+  "name_talent":"Haunt",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=48181\/haunt",
+  "classe_talent_name":"warlock"
+ },
+ {
+  "name_talent":"Shadowburn",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=17877\/shadowburn",
+  "classe_talent_name":"warlock"
+ },
+ {
+  "name_talent":"Diffuse Magic",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=122783\/diffuse-magic",
+  "classe_talent_name":"monk"
+ },
+ {
+  "name_talent":"Rune of Power",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=116011\/rune-of-power",
+  "classe_talent_name":"mage"
+ },
+ {
+  "name_talent":"Crusade",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=231895\/crusade",
+  "classe_talent_name":"paladin"
+ },
+ {
+  "name_talent":"Deeper Stratagem",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=193531\/deeper-stratagem",
+  "classe_talent_name":"rogue"
+ },
+ {
+  "name_talent":"Storm Elemental",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=192249\/storm-elemental",
+  "classe_talent_name":"shaman"
+ },
+ {
+  "name_talent":"Repentance",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=20066\/repentance",
+  "classe_talent_name":"paladin"
+ },
+ {
+  "name_talent":"Fury of Elune",
+  "id_talent":"https:\/\/www.wowhead.com\/spell=202770\/fury-of-elune",
+  "classe_talent_name":"druid"
+ }
+]
