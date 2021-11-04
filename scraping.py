@@ -31,6 +31,7 @@ while (contador <= 150):
     character_details_links = [href.get_attribute("href") for href in driver.find_elements_by_xpath("//td[2]/div/a[@href]")]
     
     
+    
     #Url da pagina atual
     driver.get(driver.current_url)
     print(driver.current_url[-6:].upper()) 
@@ -39,16 +40,15 @@ while (contador <= 150):
 
     #Para cada item de player
     for i in character_details_links:
-        driver.get(i)
-        sleep(5)                    
+
         df3 = pd.read_json('Data/Data_players.json')
-        try:
-            #Adiciona todos os itens da pagina de detalhes do player:
-            nome = driver.find_element_by_xpath('//*[@id="character-name"]/a').text
+
+        #Verifica se existe o elemento nome por contagem
+        if len(df3.loc[df3['URL'] == i]) <= 0:
+            driver.get(i)
+            sleep(5)                    
             
-            #Verifica se existe o elemento nome por contagem
-            if len(df3.loc[df3['Nome'] == nome]) <= 0:
-                
+            try:                
                 #Captura todos os elementos no site e cria DataFrame    
                 df2 = pd.DataFrame({
                 "Nome": [driver.find_element_by_xpath('//*[@id="character-name"]/a').text],
@@ -67,12 +67,12 @@ while (contador <= 150):
                 print(df3)
                 print('*' * 120) 
 
-        #Em caso de error, update pagina e espere 10s
-        except:
-            print('*' * 60,'Deu erro','*' * 60)
-            driver.find_element_by_xpath('//*[@id="update-text"]/a').click()
-            sleep(10)
-            continue
+            #Em caso de error, update pagina e espere 10s
+            except:
+                print('*' * 60,'Deu erro','*' * 60)
+                driver.find_element_by_xpath('//*[@id="update-text"]/a').click()
+                sleep(10)
+                continue
 
 
     contador += 1

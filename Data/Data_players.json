@@ -1,18 +1,122 @@
 [
-    {
-        "Nome": "Timbermawh",
-        "Item_lvl": "251.56",
-        "Classe": "Venthyr Blood Elf Paladin",
-        "Servidor": "Zul'jin (US)",
-        "Mortes_temporada": "131",
-        "URL": "https:\/\/www.warcraftlogs.com\/character\/id\/47673995\/"
-    },
-    {
-        "Nome": "Equinoxmonk",
-        "Item_lvl": 251.94,
-        "Classe": "Kyrian Blood Elf Monk",
-        "Servidor": "Burning Blade (US)",
-        "Mortes_temporada": 71,
-        "URL": "https:\/\/www.warcraftlogs.com\/character\/id\/61736454\/"
-    }
+ {
+  "Nome":"Muchasm",
+  "Item_lvl":"254.81",
+  "Classe":"Night Fae Orc Mage",
+  "Servidor":"Illidan (US)",
+  "Mortes_temporada":"94",
+  "URL":"https:\/\/www.warcraftlogs.com\/character\/id\/49447599\/"
+ },
+ {
+  "Nome":"Pretzuld",
+  "Item_lvl":253.19,
+  "Classe":"Venthyr Troll Druid",
+  "Servidor":"Hyjal (US)",
+  "Mortes_temporada":113,
+  "URL":"https:\/\/www.warcraftlogs.com\/character\/id\/55566646\/"
+ },
+ {
+  "Nome":"Bobas",
+  "Item_lvl":251.69,
+  "Classe":"Kyrian Blood Elf Warrior",
+  "Servidor":"Hyjal (US)",
+  "Mortes_temporada":106,
+  "URL":"https:\/\/www.warcraftlogs.com\/character\/id\/61343804\/"
+ },
+ {
+  "Nome":"Dabnel",
+  "Item_lvl":253.56,
+  "Classe":"Necrolord Orc Monk",
+  "Servidor":"Area 52 (US)",
+  "Mortes_temporada":86,
+  "URL":"https:\/\/www.warcraftlogs.com\/character\/id\/44755342\/"
+ },
+ {
+  "Nome":"Azunaz",
+  "Item_lvl":253.63,
+  "Classe":"Night Fae Orc Mage",
+  "Servidor":"Illidan (US)",
+  "Mortes_temporada":4,
+  "URL":"https:\/\/www.warcraftlogs.com\/character\/id\/61043737\/"
+ },
+ {
+  "Nome":"Onezyd",
+  "Item_lvl":254.13,
+  "Classe":"Venthyr Troll Druid",
+  "Servidor":"Illidan (US)",
+  "Mortes_temporada":3,
+  "URL":"https:\/\/www.warcraftlogs.com\/character\/id\/58786343\/"
+ },
+ {
+  "Nome":"Ellesmêre",
+  "Item_lvl":253.19,
+  "Classe":"Venthyr Blood Elf Paladin",
+  "Servidor":"Area 52 (US)",
+  "Mortes_temporada":5,
+  "URL":"https:\/\/www.warcraftlogs.com\/character\/id\/39397836\/"
+ },
+ {
+  "Nome":"Nerfbear",
+  "Item_lvl":254.81,
+  "Classe":"Kyrian Zandalari Troll Druid",
+  "Servidor":"Area 52 (US)",
+  "Mortes_temporada":54,
+  "URL":"https:\/\/www.warcraftlogs.com\/character\/id\/42783608\/"
+ },
+ {
+  "Nome":"Chungess",
+  "Item_lvl":254.5,
+  "Classe":"Venthyr Blood Elf Rogue",
+  "Servidor":"Illidan (US)",
+  "Mortes_temporada":77,
+  "URL":"https:\/\/www.warcraftlogs.com\/character\/id\/62652503\/"
+ },
+ {
+  "Nome":"Carmeezy",
+  "Item_lvl":251.56,
+  "Classe":"Necrolord Orc Hunter",
+  "Servidor":"Area 52 (US)",
+  "Mortes_temporada":102,
+  "URL":"https:\/\/www.warcraftlogs.com\/character\/id\/55960512\/"
+ },
+ {
+  "Nome":"Psychox",
+  "Item_lvl":254.88,
+  "Classe":"Kyrian Blood Elf Demon Hunter",
+  "Servidor":"Illidan (US)",
+  "Mortes_temporada":47,
+  "URL":"https:\/\/www.warcraftlogs.com\/character\/id\/42486090\/"
+ },
+ {
+  "Nome":"Lambodriver",
+  "Item_lvl":254.0,
+  "Classe":"Night Fae Tauren Druid",
+  "Servidor":"Tichondrius (US)",
+  "Mortes_temporada":89,
+  "URL":"https:\/\/www.warcraftlogs.com\/character\/id\/62084645\/"
+ },
+ {
+  "Nome":"Tarisant",
+  "Item_lvl":254.38,
+  "Classe":"Venthyr Troll Druid",
+  "Servidor":"Tichondrius (US)",
+  "Mortes_temporada":102,
+  "URL":"https:\/\/www.warcraftlogs.com\/character\/id\/37517409\/"
+ },
+ {
+  "Nome":"Timbermawh",
+  "Item_lvl":251.56,
+  "Classe":"Venthyr Blood Elf Paladin",
+  "Servidor":"Zul'jin (US)",
+  "Mortes_temporada":131,
+  "URL":"https:\/\/www.warcraftlogs.com\/character\/id\/47673995\/"
+ },
+ {
+  "Nome":"Equinoxmonk",
+  "Item_lvl":251.94,
+  "Classe":"Kyrian Blood Elf Monk",
+  "Servidor":"Burning Blade (US)",
+  "Mortes_temporada":71,
+  "URL":"https:\/\/www.warcraftlogs.com\/character\/id\/61736454\/"
+ }
 ]
