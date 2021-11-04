@@ -41,7 +41,7 @@ while (contador <= 150):
 
     #Para cada item de player
     for i in character_details_links:
-
+        #Leitura do arquivo Json
         df3 = pd.read_json('Data/Data_players.json')
 
         #Verifica se existe o elemento nome por contagem
@@ -60,7 +60,7 @@ while (contador <= 150):
                 "gear" : [[i.text for i in driver.find_elements_by_xpath('//*[@class="epic"]')]],
                 "URL" : [driver.current_url.lower()]})
 
-                #Unifica os DataFrames
+                #Unifica os DataFrames e retirar duplicados
                 result = pd.concat([df2, df3]).drop_duplicates(subset='Nome').reset_index(drop=True)
 
                 #Cria Json ja unificado
