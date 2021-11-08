@@ -29,23 +29,19 @@ while (contador <= 150):
         
     #Pega todos os links dos players da pagina
     character_details_links = [href.get_attribute("href") for href in driver.find_elements_by_xpath("//td[2]/div/a[@href]")]
-
-    
-    
+    score = [i.text for i in driver.find_elements_by_xpath('//div[1]/table/tbody/tr/td[3]')]
     
     #Url da pagina atual
-    driver.get(driver.current_url)
     print(driver.current_url[-6:].upper()) 
 
     nomes_pagina_de_origem = driver.find_elements_by_css_selector("a[class^='main-table-link main-table-player']")
 
     #Para cada item de player
-    for i in character_details_links:
-        #Leitura do arquivo Json
-        df3 = pd.read_json('Data/Data_players.json')
+    for i, x in zip(character_details_links, score):
 
-        #Verifica se existe o elemento nome por contagem
-        if len(df3.loc[df3['URL'] == i]) <= 0:
+        df3 = pd.read_json('Data/Data_players.json')
+        
+        if len(df3.loc[df3['URL'] == i]) <= 0: #Verifica se existe o elemento nome por contagem
             driver.get(i)
             sleep(5)                    
             
@@ -53,19 +49,21 @@ while (contador <= 150):
                 #Captura todos os elementos no site e cria DataFrame    
                 df2 = pd.DataFrame({
                 "Nome": [driver.find_element_by_xpath('//*[@id="character-name"]/a').text],
+                "Score" : [x],
                 "Item_lvl" : [driver.find_element_by_id('gear-box-ilvl-text').text[-6:]],
                 "Classe": [driver.find_element_by_id('character-class').text],
                 "Servidor" : [driver.find_element_by_xpath('//*[@id="server-link"]').text],
                 "Mortes_temporada" : [driver.find_element_by_xpath('//div[2]/table/tbody/tr[2]/td[2]').text],
-                "gear" : [[i.text for i in driver.find_elements_by_xpath('//*[@class="epic"]')]],
+                "gear" : [[i.text for i in driver.find_elements_by_xpath('//*[@id="gear-box"]/div[2]/div[2]/div/div[2]/a')]],
+                "Talents" : [[href.get_attribute("href")[-12:] for href in driver.find_elements_by_xpath('//*[@id="talent-item"]')]],
                 "URL" : [driver.current_url.lower()]})
 
-                #Unifica os DataFrames e retirar duplicados
-                result = pd.concat([df2, df3]).drop_duplicates(subset='Nome').reset_index(drop=True)
+                #Unifica os DataFrames
+                result = pd.concat([df2, df3]).reset_index(drop=True).drop_duplicates(subset=['Score'])
 
                 #Cria Json ja unificado
-                result.to_json("Data/Data_players.json", indent=1, orient='records', force_ascii=False)
-                print('*' * 120)
+                result.to_json("Data/Data_players.json", indent=4, orient='records', force_ascii=False)
+                print('*' * 120)    
                 print(df3)
                 print('*' * 120) 
 
