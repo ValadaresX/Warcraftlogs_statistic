@@ -22,6 +22,8 @@ driver.get("https://www.warcraftlogs.com/zone/rankings/25#metric=playerscore&reg
 # Espera em segundos para que a pagina seja carregada
 sleep(3)
 
+#Maximo de linhas a serem printadas
+pd.set_option('display.max_rows', 10)
 
 contador = 0
 #Enquanto contador menor igual a 150 (que nesse caso coleta 15000 itens)
@@ -31,9 +33,6 @@ while (contador <= 150):
     character_details_links = [href.get_attribute("href") for href in driver.find_elements_by_xpath("//td[2]/div/a[@href]")]
     score = [i.text for i in driver.find_elements_by_xpath('//div[1]/table/tbody/tr/td[3]')]
     
-    #Url da pagina atual
-    print(driver.current_url[-6:].upper()) 
-
     nomes_pagina_de_origem = driver.find_elements_by_css_selector("a[class^='main-table-link main-table-player']")
 
     #Para cada item de player
@@ -59,19 +58,20 @@ while (contador <= 150):
                 "URL" : [driver.current_url.lower()]})
 
                 #Unifica os DataFrames
-                result = pd.concat([df2, df3]).reset_index(drop=True).drop_duplicates(subset=['Score'])
+                result = pd.concat([df2, df3]).reset_index(drop=True).drop_duplicates(subset=['Nome'])
 
                 #Cria Json ja unificado
                 result.to_json("Data/Data_players.json", indent=4, orient='records', force_ascii=False)
-                print('*' * 120)    
+                print('*' * 40)    
                 print(df3[["Nome", "Score"]])
-                print('*' * 120) 
+                print('*' * 40) 
 
             #Em caso de error, update pagina e espere 10s
             except:
-                print('*' * 60,'Deu erro','*' * 60)
+                print('*' * 30,'Deu erro','*' * 30)
+                sleep(5)
                 driver.find_element_by_xpath('//*[@id="update-text"]/a').click()
-                sleep(10)
+                sleep(6)
                 continue
 
 
