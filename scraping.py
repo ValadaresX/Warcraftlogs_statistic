@@ -64,7 +64,7 @@ while (contador <= 150):
                 #Cria Json ja unificado
                 result.to_json("Data/Data_players.json", indent=4, orient='records', force_ascii=False)
                 print('*' * 120)    
-                print(df3)
+                print(df3[["Nome", "Score"]])
                 print('*' * 120) 
 
             #Em caso de error, update pagina e espere 10s
