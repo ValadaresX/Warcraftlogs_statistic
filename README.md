@@ -1,12 +1,7 @@
-# Projeto de analise de dados 
+# Projeto de Web-Scraping
 
-Esse projeto tem como finalidade principal, aprofundar meus conhecimentos em logica e na vertente da programação de analise de dados e tem como etapas os seguintes tópicos:
 * Análise de requisitos
 * Web scraping
-* Limpeza de dados
-* Criação de dashboard
-
-
 
 ## Bibliotecas usadas
 
@@ -15,7 +10,6 @@ Esse projeto tem como finalidade principal, aprofundar meus conhecimentos em log
 ```bash
 pip install -r requirements.txt
 ```
-
 
 ## Como utilizar
 
