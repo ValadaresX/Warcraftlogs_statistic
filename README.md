@@ -20,3 +20,5 @@ Execute o arquivo scraping.py no shell, o programa executara uma loop de 150 pag
 
 ## Badges
 [![Build Status](https://app.travis-ci.com/ValadaresX/Warcraftlogs_statistic.svg?branch=main)](https://app.travis-ci.com/ValadaresX/Warcraftlogs_statistic)
+[![Updates](https://pyup.io/repos/github/ValadaresX/Warcraftlogs_statistic/shield.svg)](https://pyup.io/repos/github/ValadaresX/Warcraftlogs_statistic/)
+[![Python 3](https://pyup.io/repos/github/ValadaresX/Warcraftlogs_statistic/python-3-shield.svg)](https://pyup.io/repos/github/ValadaresX/Warcraftlogs_statistic/)
