@@ -17,5 +17,6 @@ Execute o arquivo scraping.py no shell, o programa executara uma loop de 150 pag
 
 ## License
 [MIT]
-(https://choosealicense.com/licenses/mit/)
+
+## Badges
 [![Build Status](https://app.travis-ci.com/ValadaresX/Warcraftlogs_statistic.svg?branch=main)](https://app.travis-ci.com/ValadaresX/Warcraftlogs_statistic)
