@@ -42,8 +42,9 @@ while (next != None):
         result.to_json("Data/talents.json", indent=1, orient='records', force_ascii=False)
         
     print(df3)
-
-    try:#Passando para proxima pagina 
+    #Passando para proxima pagina 
+    try:
+        
         try:       
             driver.find_element_by_xpath('//*[@id="onetrust-accept-btn-handler"]').click() #Aceito
         except:
